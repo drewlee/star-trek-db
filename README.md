@@ -182,7 +182,7 @@ List the count of episodes per series.
 
 ```SQL
 SELECT series.id,
-	series.name,
+  series.name,
   COUNT(episode.id) AS count
 FROM episode
 INNER JOIN series
@@ -210,7 +210,7 @@ Select all episodes that feature a particular character in the description.
 
 ```SQL
 SELECT episode.id,
-	series.name AS series,
+  series.name AS series,
   episode.season,
   episode.episode,
   episode.title,
