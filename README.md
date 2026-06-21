@@ -225,5 +225,5 @@ ORDER BY episode.release_date;
 
 ## Acknowledgements
 
-My acknowledgements to [Wikipedia](https://www.wikipedia.org/) and
+Acknowledgements to [Wikipedia](https://www.wikipedia.org/) and
 [IMDB](https://www.imdb.com/) as the primary sources for this project.
