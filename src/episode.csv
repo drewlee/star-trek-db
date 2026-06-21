@@ -1,0 +1,951 @@
+id,series_id,season,episode,title,release_date,description
+1,1,1,1,The Man Trap,1966-09-08,Dr. McCoy discovers his old flame is not what she seems after crew members begin dying from a sudden lack of salt in their bodies.
+2,1,1,2,Charlie X,1966-09-15,Captain Kirk must learn the limits to the power of a 17-year-old boy with the psionic ability to create anything and destroy anyone.
+3,1,1,3,Where No Man Has Gone Before,1966-09-22,The flight recorder of the 200-year-old U.S.S. Valiant relays a tale of terror--a magnetic storm at the edge of the galaxy.
+4,1,1,4,The Naked Time,1966-09-29,The crew is infected with a mysterious disease that removes people's emotional inhibitions to a dangerous degree.
+5,1,1,5,The Enemy Within,1966-10-06,"A transporter malfunction splits Captain Kirk into two halves: one meek and indecisive, the other violent and ill tempered. The remaining crew members stranded on the planet cannot be beamed up to the ship until a problem is fixed."
+6,1,1,6,Mudd's Women,1966-10-13,The Enterprise picks up untrustworthy entrepreneur Harry Mudd accompanied by three beautiful women who immediately put a spell on all the male crew members.
+7,1,1,7,What Are Little Girls Made Of?,1966-10-20,Nurse Chapel is reunited with her fiancé; but his new obsession leads him to make an android duplicate of Captain Kirk.
+8,1,1,8,Miri,1966-10-27,"The Enterprise discovers a planet exactly like Earth, but the only inhabitants are children who contract a fatal disease upon entering puberty."
+9,1,1,9,Dagger of the Mind,1966-11-03,Kirk and psychiatrist Helen Noel are trapped on a maximum security penal colony that experiments with mind control and Spock must use the Vulcan mind-meld to find a way to save them.
+10,1,1,10,The Corbomite Maneuver,1966-11-10,"After the Enterprise is forced to destroy a dangerous marker buoy, a gigantic alien ship arrives to capture and condemn the crew as trespassers."
+11,1,1,11,"The Menagerie, Part I",1966-11-17,"Spock kidnaps the disabled Capt. Pike, hijacks the Enterprise, and then surrenders for court martial."
+12,1,1,12,"The Menagerie, Part II",1966-11-24,"At Spock's court martial, he explains himself with mysterious footage about when Capt. Pike was kidnapped by powerful illusion casting aliens."
+13,1,1,13,The Conscience of the King,1966-12-08,"While Captain Kirk investigates whether an actor is actually a presumed dead mass murderer, a mysterious assailant is killing the people who could identify the fugitive."
+14,1,1,14,Balance of Terror,1966-12-15,The Enterprise must decide on its response when a Romulan ship makes a destructively hostile armed probe of Federation territory.
+15,1,1,15,Shore Leave,1966-12-29,"The past months have left the crew exhausted and in desperate need of a break, but does this explain McCoy's encounter with a human-sized white rabbit or Kirk crossing paths with the prankster who plagued his days at Starfleet Academy?"
+16,1,1,16,The Galileo Seven,1967-01-05,"The Galileo, under Spock's command, crash-lands on a hostile planet. As the Enterprise races against time to find the shuttlecraft, Spock's strictly logical leadership clashes with the fear and resentment of his crew."
+17,1,1,17,The Squire of Gothos,1967-01-12,A powerful and childish alien captures the crew to keep himself amused.
+18,1,1,18,Arena,1967-01-19,"For bringing hostility into their solar system, a superior alien race brings Captain Kirk into mortal combat against the reptilian captain of an alien ship he was pursuing."
+19,1,1,19,Tomorrow Is Yesterday,1967-01-26,The Enterprise is thrown back in time to 1960s Earth.
+20,1,1,20,Court Martial,1967-02-02,Kirk draws a court martial in the negligent death of a crewman.
+21,1,1,21,The Return of the Archons,1967-02-09,"Seeking the answer to a century-old mystery, Kirk and crew encounter a vacantly peaceful society under a 6000-year autocratic rule that kills all those it can't absorb."
+22,1,1,22,Space Seed,1967-02-16,"While on patrol in deep space, Captain Kirk and his crew find and revive a genetically-engineered world conqueror and his compatriots from Earth's Twentieth Century."
+23,1,1,23,A Taste of Armageddon,1967-02-23,Kirk and Spock must save their ship's crew when they are all declared killed in action in a bizarre computer simulated war where the actual deaths must nevertheless occur.
+24,1,1,24,This Side of Paradise,1967-03-02,"The Enterprise investigates a planet whose colonists should be dead, but are not."
+25,1,1,25,The Devil in the Dark,1967-03-09,"The Enterprise is sent to a mining colony that is being terrorized by a mysterious monster, only to find that the situation is not that simple."
+26,1,1,26,Errand of Mercy,1967-03-23,"With a war with Klingons raging, Kirk and Spock attempt to resist an occupation of a planet with incomprehensibly placid natives."
+27,1,1,27,The Alternative Factor,1967-03-30,"Existence itself comes under threat from a man's power-struggle with his alternate self, with the Enterprise's strained dilithium crystals presenting his key to a final solution."
+28,1,1,28,The City on the Edge of Forever,1967-04-06,"When a temporarily insane Dr. McCoy accidentally changes history and destroys his time, Kirk and Spock follow him to prevent the disaster, but the price to do so is high."
+29,1,1,29,Operation -- Annihilate!,1967-04-13,The Enterprise crew attempts to stop a plague of amoeba-like creatures from possessing human hosts and spreading throughout the galaxy.
+30,1,2,1,Amok Time,1967-09-15,"In the throes of his Pon Farr mating period, Spock must return to Vulcan to meet his intended future wife, betrothed from childhood."
+31,1,2,2,Who Mourns for Adonais?,1967-09-22,A powerful being claiming to be the Greek god Apollo appears and demands that the crew of the Enterprise disembark onto his planet to worship him.
+32,1,2,3,The Changeling,1967-09-29,"A powerful artificially intelligent Earth probe, with a murderously twisted imperative, comes aboard the Enterprise and mistakes Capt. Kirk for its creator."
+33,1,2,4,"Mirror, Mirror",1967-10-06,"A transporter accident places Captain Kirk's landing party in an alternate universe, where the Enterprise is in the service of a barbarically brutal empire."
+34,1,2,5,The Apple,1967-10-13,Primitive inhabitants of Gamma Trianguli VI worship a god who orders them to kill visitors from the Enterprise.
+35,1,2,6,The Doomsday Machine,1967-10-20,The USS Enterprise encounters the wrecked USS Constellation and its distraught commodore who's determined to stop the giant planet-destroying robot ship that killed his crew.
+36,1,2,7,Catspaw,1967-10-27,"Very alien visitors to our galaxy attempt to connect with human consciousness but miss, winding up tapping into the regions of human nightmares instead."
+37,1,2,8,"I, Mudd",1967-11-03,Harry Mudd returns with a plot to take over the Enterprise by stranding the crew on a planet populated by androids under his command.
+38,1,2,9,Metamorphosis,1967-11-10,"While returning to the Enterprise aboard the shuttlecraft, Kirk, Spock, McCoy and a seriously ill Federation diplomat find themselves kidnapped by an energized cloud."
+39,1,2,10,Journey to Babel,1967-11-17,"The Enterprise hosts a number of quarrelling diplomats, including Spock's father, but someone on board has murder in mind."
+40,1,2,11,Friday's Child,1967-12-01,The Federation clashes with the Klingon Empire over mining rights to Capella IV. A sudden coup between its warrior-minded inhabitants forces Kirk's party to flee with the now dead leader's pregnant wife.
+41,1,2,12,The Deadly Years,1967-12-08,A landing party from the Enterprise is exposed to strange form of radiation which rapidly ages them.
+42,1,2,13,Obsession,1967-12-15,Capt. Kirk obsessively hunts for a mysterious cloud creature he encountered in his youth.
+43,1,2,14,Wolf in the Fold,1967-12-22,Kirk and the Enterprise computer become detectives after Scotty is accused of murdering women on a pleasure planet.
+44,1,2,15,The Trouble with Tribbles,1967-12-29,"To protect a space station with a vital grain shipment, Kirk and the crew must deal with Federation bureaucrats, a Klingon battle cruiser and a peddler who sells furry, purring, voracious little creatures as pets."
+45,1,2,16,The Gamesters of Triskelion,1968-01-05,"Kirk, Uhura and Chekov are trapped on a planet where abducted aliens are enslaved and trained to perform as gladiators for the amusement of bored, faceless aliens."
+46,1,2,17,A Piece of the Action,1968-01-12,The crew of the Enterprise struggles to cope with a planet of imitative people who have modeled their society on 1920s gangsters.
+47,1,2,18,The Immunity Syndrome,1968-01-19,The Enterprise encounters a gigantic energy draining space organism that threatens the galaxy.
+48,1,2,19,A Private Little War,1968-02-02,"Peaceful, primitive peoples get caught up in the struggle between superpowers, with Kirk unhappily trying to restore the balance of power disrupted by the Klingons."
+49,1,2,20,Return to Tomorrow,1968-02-09,"The Enterprise is guided to a distant, long-dead world where survivors of an extremely ancient race - existing only as disembodied energy - desiring the bodies of Kirk, Spock and astro-biologist Ann Mulhall so that they may live again."
+50,1,2,21,Patterns of Force,1968-02-16,"Looking for a missing Federation cultural observer, Kirk and Spock find themselves on a planet whose culture has been completely patterned after Nazi Germany."
+51,1,2,22,By Any Other Name,1968-02-23,Galactic alien scouts hijack the Enterprise for a return voyage to their home galaxy and a prelude to invasion. Kirk's only advantage is that they're not fully adapted to the human form they've taken on.
+52,1,2,23,The Omega Glory,1968-03-01,"Responding to a distress signal, Kirk finds Captain Tracey of the U.S.S. Exeter violating the prime directive and interfering with a war between the Yangs and the Kohms to find the secret of their longevity."
+53,1,2,24,The Ultimate Computer,1968-03-08,"Kirk and a sub-skeleton crew are ordered to test out an advanced artificially intelligent control system - the M-5 Multitronic system, which could potentially render them all redundant."
+54,1,2,25,Bread and Circuses,1968-03-15,The Enterprise crew investigates the disappearance of a ship's crew on a planet that is a modern version of the Roman Empire.
+55,1,2,26,Assignment: Earth,1968-03-29,"While back in time observing Earth in 1968, the Enterprise crew encounters the mysterious Gary Seven who has his own agenda on the planet."
+56,1,3,1,Spock's Brain,1968-09-20,The crew of the Enterprise pursues a mysterious woman who has abducted Spock's brain.
+57,1,3,2,The Enterprise Incident,1968-09-27,An apparently insane Capt. Kirk has the Enterprise deliberately enter the Romulan Neutral Zone where the ship is immediately captured by the enemy.
+58,1,3,3,The Paradise Syndrome,1968-10-04,"Trapped on a planet whose inhabitants are descended from Northwestern Native Americans, Kirk loses his memory and is proclaimed a God while the crippled Enterprise races back to the planet before it is destroyed by an asteroid."
+59,1,3,4,And the Children Shall Lead,1968-10-11,The Enterprise reaches a Federation colony where the adults have all killed themselves but the children play without care.
+60,1,3,5,Is There in Truth No Beauty?,1968-10-18,"Lovely telepath Miranda is aide to Ambassador Kollos, in a box to stop insanity when humans see Medusans. She rejects Larry, a designer of Enterprise, and senses murderous intent nearby."
+61,1,3,6,Spectre of the Gun,1968-10-25,"As punishment for ignoring their warning and trespassing on their planet, the Melkot condemn Capt. Kirk and his landing party to the losing side of a surreal recreation of the 1881 historic gunfight at the OK Corral."
+62,1,3,7,Day of the Dove,1968-11-01,Both humans and Klingons have been lured to a planet by a formless entity that feeds on hatred and has set about to fashion them into a permanent food supply for itself.
+63,1,3,8,For the World Is Hollow and I Have Touched the Sky,1968-11-08,The Enterprise discovers an apparent asteroid that is on a collision course with a planet is actually an ancient populated generation ship.
+64,1,3,9,The Tholian Web,1968-11-15,"With Capt. Kirk and the derelict USS Defiant apparently lost, the Enterprise grapples with an insanity causing plague and an attack by the Tholians."
+65,1,3,10,Plato's Stepchildren,1968-11-22,"After Dr. McCoy helps the leader of a planet populated by people with powerful psionic abilities, they decide to force him to stay by torturing his comrades until he submits."
+66,1,3,11,Wink of an Eye,1968-11-29,A group of aliens who exist in a state of incredible acceleration invade the Enterprise and abduct Capt. Kirk.
+67,1,3,12,The Empath,1968-12-06,"Trapped in an alien laboratory, Kirk, Spock and McCoy meet an empath and are involved in a series of experiments."
+68,1,3,13,Elaan of Troyius,1968-12-20,"While transporting an arrogant, demanding princess for a political marriage, Captain Kirk must cope both with her biochemical ability to force him to love her, as well as sabotage on his ship."
+69,1,3,14,Whom Gods Destroy,1969-01-03,"Kirk and Spock are taken prisoners by a former starship captain named Garth, who now resides at, and has taken over, a high security asylum for the criminally insane."
+70,1,3,15,Let That Be Your Last Battlefield,1969-01-10,The Enterprise encounters two duo-chromatic and mutually belligerent aliens who put the ship in the middle of their old conflict.
+71,1,3,16,The Mark of Gideon,1969-01-17,Kirk beams down to the planet Gideon and appears to find himself trapped on a deserted Enterprise. Spock on the real Enterprise must use his diplomatic skills to deal with the uncooperative inhabitants of Gideon and find the Captain.
+72,1,3,17,That Which Survives,1969-01-24,"After the Enterprise landing party beams down to investigate a geologically interesting planet, their ship is hurled across the galaxy. Kirk and company find a deserted outpost guarded by the deadly image of a beautiful woman."
+73,1,3,18,The Lights of Zetar,1969-01-31,"A mysterious, twinkling mass of sapient energy ravages an important archive and Scotty's new girlfriend may be linked to it."
+74,1,3,19,Requiem for Methuselah,1969-02-14,"On a planet, looking for an urgent medicinal cure, Kirk, Spock and McCoy come across a dignified recluse living privately but in splendor with his sheltered ward and a very protective robot servant."
+75,1,3,20,The Way to Eden,1969-02-21,"A group of idealistic hippies, led by an irrational leader, come aboard the U.S.S. Enterprise."
+76,1,3,21,The Cloud Minders,1969-02-28,Kirk and Spock are caught up in a revolution on a planet where intellectuals and artists live on a utopian city in the sky while the rest of the population toils in mines on the barren surface below.
+77,1,3,22,The Savage Curtain,1969-03-07,"Kirk, Spock, Abraham Lincoln and Vulcan legend Surak are pitted in battle against notorious villains from history for the purpose of helping a conscious rock creature's understanding of a concept he does not understand, ""good vs. evil""."
+78,1,3,23,All Our Yesterdays,1969-03-14,"When Kirk, Spock and McCoy investigate the disappearance of a doomed planet's population, they find themselves trapped in different periods of that world's past."
+79,1,3,24,Turnabout Intruder,1969-06-03,Captain Kirk's insane ex-lover Dr. Janice Lester forcibly switches bodies with him in order to take command of the Enterprise.
+80,3,1,1,Encounter at Farpoint,1987-09-28,"On the maiden mission of the U.S.S. Enterprise (NCC-1701-D), an omnipotent being known as Q challenges the crew to discover the secret of a mysterious base in an advanced and civilized fashion."
+81,3,1,2,The Naked Now,1987-10-05,The crew of the Enterprise is infected with a virus that causes them to behave as though they were intoxicated.
+82,3,1,3,Code of Honor,1987-10-12,"When the leader of an alien culture takes a romantic interest in Lt. Yar, he claims her for his own, to the dismay of his own wife, who, in turn, challenges Tasha in a fight to the death."
+83,3,1,4,The Last Outpost,1987-10-19,The Enterprise makes a confrontational first contact with the piratical Ferengi race as their two ships are ensnared by a presumed dead planet ready to judge them.
+84,3,1,5,Where No One Has Gone Before,1987-10-26,"Everyone accurately pegs a visiting propulsion scientist as a charlatan, but only Wesley Crusher recognizes his alien assistant as the real deal."
+85,3,1,6,Lonely Among Us,1987-11-02,"While distracted by two antithetical races applying for Federation membership, the Enterprise picks up a sentient entity that can alternately possess either man or machinery."
+86,3,1,7,Justice,1987-11-09,"On an alien planet, young Wesley Crusher commits a transgression - small by our standards but mandatorily punishable by death in theirs."
+87,3,1,8,The Battle,1987-11-16,"Beware Ferengi bearing gifts. Capt. Picard receives the Stargazer, a ship considered lost that he once commanded."
+88,3,1,9,Hide and Q,1987-11-23,"The Enterprise encounters Q again, and he tempts Riker by endowing him with the powers of the Q."
+89,3,1,10,Haven,1987-11-30,"While on a mission to a planet called Haven, Counselor Troi meets her husband to be, a marriage arranged by her father years before, as the Enterprise encounters a ship far deadlier than any combat could provide."
+90,3,1,11,The Big Goodbye,1988-01-11,Captain Picard and some of his crew are caught in a deadly trap in the holodeck as the result of a ship-wide scan from an alien race.
+91,3,1,12,Datalore,1988-01-18,"The Enterprise visits the planet where Data was created and discovers another android like him, but when he's assembled, he's not exactly like him."
+92,3,1,13,Angel One,1988-01-25,"Riker, Troi, Data and Yar beam down to a planet ruled by a matriarchal government in the hopes of locating a missing freighter crew."
+93,3,1,14,11001001,1988-02-01,The Enterprise docks at a starbase for repairs where it is commandeered by a race of technologically-linked aliens intent on using the vessel for their own purposes.
+94,3,1,15,Too Short a Season,1988-02-08,"The Enterprise transports an elderly Starfleet Admiral to negotiate a hostage crisis. When the Admiral takes a de-aging drug, he endangers both his life and the mission."
+95,3,1,16,When the Bough Breaks,1988-02-15,"A planet that was able to cloak itself for thousands of years suddenly reveals itself, with its inhabitants proposing peace. But, after initial negotiations, children of the Enterprise are kidnapped due to the infertility of the inhabitants."
+96,3,1,17,Home Soil,1988-02-22,"On Velara III, Geordi and Data discover a microscopic life form responsible for the death of an engineer stationed on the base."
+97,3,1,18,Coming of Age,1988-03-14,"Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy."
+98,3,1,19,Heart of Glory,1988-03-21,The Enterprise searches for answers as to why three Klingon warriors were the only survivors aboard a freighter just inside the Neutral Zone which was seemingly attacked by a Ferengi ship.
+99,3,1,20,The Arsenal of Freedom,1988-04-11,"The Enterprise encounters a planet long dead, but technical equipment still functions for the purpose of selling off its arsenal, along with self sufficiency."
+100,3,1,21,Symbiosis,1988-04-18,"The Enterprise encounters two neighboring cultures, one suffering from a plague, the other marketing a cure, and learns that nothing is as simple as it seems."
+101,3,1,22,Skin of Evil,1988-04-25,"Counselor Troi is held captive on a deserted planet by a slick, black, oily, sentient and immortal puddle of evil."
+102,3,1,23,We'll Always Have Paris,1988-05-02,"A scientist's experiment in time goes awry, reuniting Picard with an old flame, now married to the scientist."
+103,3,1,24,Conspiracy,1988-05-09,"After diverting to a secret meeting with an old friend and some of Starfleet's finest commanders, Picard finds the Horatio blown to bits just hours after the meeting and he returns the Enterprise to Earth looking for answers."
+104,3,1,25,The Neutral Zone,1988-05-16,"While assigned to investigate missing outposts in the Neutral Zone, the Enterprise revives three cryogenically frozen people found aboard a wayward derelict Earth vessel."
+105,3,2,1,The Child,1988-11-21,"Deanna is impregnated by an unknown alien life-form, and Dr. Katherine Pulaski joins the Enterprise as the ship's new Chief Medical Officer."
+106,3,2,2,Where Silence Has Lease,1988-11-28,"The Enterprise encounters a mysterious void in space, and when they move in closer to investigate further, it envelops them and they can't get out."
+107,3,2,3,"Elementary, Dear Data",1988-12-05,An attempt to provide Data with a challenging Sherlock Holmes holodeck program backfires when its Professor Moriarty character accidentally becomes self-aware.
+108,3,2,4,The Outrageous Okona,1988-12-12,"The Enterprise rescues the captain of a broken-down freighter, only to become involved in a dispute between feuding worlds, each demanding custody of their guest. Data seeks help from Guinan in understanding humor."
+109,3,2,5,Loud as a Whisper,1989-01-09,The crew ferries a deaf mediator to Solais V to negotiate an end to a civil war.
+110,3,2,6,The Schizoid Man,1989-01-23,A dying anti-social scientist unintentionally comes upon the perfect vessel in which to preserve his intellect and arrogant personality - Data.
+111,3,2,7,Unnatural Selection,1989-01-30,Enhanced DNA developments trigger an epidemic of rapid aging. Caught among its victims - Dr. Pulaski.
+112,3,2,8,A Matter of Honor,1989-02-06,"Under an Officers Exchange Program, Riker serves aboard a Klingon ship, whose aging captain seeks an unwarranted bloody retaliation for suspected Enterprise treachery."
+113,3,2,9,The Measure of a Man,1989-02-13,"When Data resigns his commission rather than be dismantled for examination by an inadequately skilled scientist, a formal hearing is convened to determine whether Data is considered property without rights or is a sentient being."
+114,3,2,10,The Dauphin,1989-02-20,"Wesley falls for the young future leader of Daled IV, unaware just how dangerous the girl's protective and overly restrictive guardian can be."
+115,3,2,11,Contagion,1989-03-20,"Encountering the superior technology of a very ancient race creates system malfunctions for a doomed Federation starship, for the Enterprise, and for an eavesdropping Romulan warbird."
+116,3,2,12,The Royale,1989-03-27,"Worf, Data, and Riker find themselves trapped in a re-creation of a poorly written novel."
+117,3,2,13,Time Squared,1989-04-03,The Enterprise comes across its own shuttlecraft adrift in space - a duplicate - with an unconscious duplicate Capt. Picard inside.
+118,3,2,14,The Icarus Factor,1989-04-24,Riker's delight at being offered a command of the USS Ares turns to frustration when the man sent to prepare him for his mission is his estranged father; Worf's behavior leads Wesley to delve into Klingon tradition.
+119,3,2,15,Pen Pals,1989-05-01,"Data befriends an alien girl in distress, breaking the Prime Directive, while Wesley commands his first team."
+120,3,2,16,Q Who,1989-05-08,"Q tries to prove that Picard needs him as part of their crew by hurling the Enterprise 7,000 light years away where they encounter the Borg for the first time."
+121,3,2,17,Samaritan Snare,1989-05-15,"With Picard away for routine surgery, the Enterprise responds to an apparent distress call from a Pakled vessel."
+122,3,2,18,Up the Long Ladder,1989-05-22,"An antiquated distress signal leads to two lost 22nd century Earth colonies, each facing doom in different ways, one by fire, the other by prolonged cloning."
+123,3,2,19,Manhunt,1989-06-19,A midlife Betazoid condition renders Ambassador Troi hot on the hunt for romance and wedlock with Captain Picard - or any man.
+124,3,2,20,The Emissary,1989-06-26,"The Enterprise addresses the emergency of an old Klingon ship coming out of stasis and ready to fight the Federation. A half-Human/half-Klingon emissary, who once knew Worf intimately, arrives to help."
+125,3,2,21,Peak Performance,1989-07-10,The crew of the Enterprise participates in war games.
+126,3,2,22,Shades of Gray,1989-07-17,"When Commander Riker comes down with a dangerous alien infection after an away mission, the only way to treat it may be through reliving his memories."
+127,3,3,1,Evolution,1989-09-25,"Wesley's latest science project escapes the lab, threatening the Enterprise and an eminent scientist's life-long project."
+128,3,3,2,The Ensigns of Command,1989-10-02,"After 111 years of silence, an extremely litigious alien race asserts its agreed-upon right to wipe out a Federation colony in its territory."
+129,3,3,3,The Survivors,1989-10-09,"The Enterprise responds to a distress call from Rana IV, a Federation colony that is under attack from an unknown alien ship. When they arrive, they find the entire surface of the planet destroyed, save for a single house and two occupants."
+130,3,3,4,Who Watches the Watchers,1989-10-16,A proto-Vulcan culture worships Captain Picard and prepares to offer Counselor Troi as a sacrifice.
+131,3,3,5,The Bonding,1989-10-23,"A startling surprise awaits the crew of the Enterprise when a mission costs the life of a crew member, who left her son behind."
+132,3,3,6,Booby Trap,1989-10-30,"The Enterprise triggers an ancient yet effective trap left by an extinct race, with a perfectly preserved derelict ship serving as cheese for Picard."
+133,3,3,7,The Enemy,1989-11-06,La Forge gets left behind on a storm-plagued planet when the rest of his team encounters a Romulan warrior.
+134,3,3,8,The Price,1989-11-13,"While the Enterprise hosts negotiations for control of a stable wormhole, Troi forms a personal relationship with an opposing negotiator, unaware of his true being."
+135,3,3,9,The Vengeance Factor,1989-11-20,"The Enterprise pursues a race of ""gatherers"" who continue to raid Federation outposts, unaware of the dangers lurking among them."
+136,3,3,10,The Defector,1990-01-01,"When a Romulan officer defects to the Federation with a warning of a impending invasion, Capt. Picard struggles to decide if he is to be believed."
+137,3,3,11,The Hunted,1990-01-10,"Investigating a planet applying for membership into the Federation, the crew of the Enterprise finds a group of inhabitants who used to be soldiers, but now fight for their very existence."
+138,3,3,12,The High Ground,1990-01-31,"While visiting a planet under civil war, Dr. Crusher is taken hostage by an opposing faction of the planet's ruling government."
+139,3,3,13,Deja Q,1990-02-05,"Much to Picard's displeasure, Q reappears on the Enterprise, claiming to have been ejected from the Q Continuum, and therefore, lost his powers."
+140,3,3,14,A Matter of Perspective,1990-02-12,"The widow of respected scientist Dr. Nel Apgar accuses Riker of seducing her and killing her husband. Rather than turn Riker over for unfavorable trial, the Enterprise reconstructs the facts."
+141,3,3,15,Yesterday's Enterprise,1990-02-19,"The Enterprise C enters the Enterprise D's time and space continuum, where they find Picard and crew in a constant state of war with the Klingons, and only Guinan knows it."
+142,3,3,16,The Offspring,1990-03-12,"After returning from a cybernetics conference to the Enterprise, Data creates his own ""child,"" much to the chagrin of his captain, and without regards to the ramifications with Starfleet."
+143,3,3,17,Sins of the Father,1990-03-19,"A Klingon commander comes aboard the Enterprise in an officer exchange program initiated by Starfleet, much to the chagrin of the crew."
+144,3,3,18,Allegiance,1990-03-26,"Picard is kidnapped and held with three different aliens; meanwhile, he is replaced with an impostor aboard the Enterprise."
+145,3,3,19,Captain's Holiday,1990-04-02,"After mediating a difficult trade agreement, Captain Picard is encouraged to take a much needed rest on a vacationing planet, where he's visited by a strange race from the future, in search of a dangerous weapon."
+146,3,3,20,Tin Man,1990-04-23,"The Enterprise reaches out to an alien being while dancing around with the Romulans, who want to attack it in an act of vengeance."
+147,3,3,21,Hollow Pursuits,1990-04-30,"A shy member of the ""Enterprise"" crew becomes addicted to the holodeck, where relationships are easier than in real life, when his knowledge is needed in engineering."
+148,3,3,22,The Most Toys,1990-05-07,"When transporting a dangerous material to the Enterprise, Data is kidnapped and the crew is led to believe he is dead when the shuttlecraft he was piloting explodes en route."
+149,3,3,23,Sarek,1990-05-14,Legendary Federation ambassador Sarek visits the Enterprise to conclude peace talks with a race called the Legarans. His arrival is accompanied with a rash of unusual emotional outbursts among the crew.
+150,3,3,24,Ménage à Troi,1990-05-28,"When Deanna's mother spurns advances made by a Ferengi DaiMon, he takes it upon himself to kidnap her, Deanna, and Commander Riker, and steal them away aboard his ship."
+151,3,3,25,Transfigurations,1990-06-04,"The Enterprise finds a deserted planet where a ship has crashed, and, with it, the lone survivor with no memory, but extraordinary healing powers."
+152,3,3,26,"The Best of Both Worlds, Part I",1990-06-18,"Responding to a distress call on one of the Federation's outer-most colonies, the Enterprise arrives...only to find a big hole in the ground where the town used to be, and discovers the Borg are behind the attack."
+153,3,4,1,"The Best of Both Worlds, Part II",1990-09-24,"Having absorbed Captain Picard and his knowledge, the Borg head for Earth, leaving Riker and the Enterprise desperate for an unanticipated way to defeat them."
+154,3,4,2,Family,1990-10-01,"After defeating the Borg, the crew of the Enterprise experiences shore leave in various ways. Captain Picard's return to his family's vineyard in France has some extraordinary repercussions."
+155,3,4,3,Brothers,1990-10-08,"After an accident aboard the Enterprise leaves one of its children in grave danger, Data commandeers the Enterprise, driven to take the ship to an unknown origin, where an interesting figure awaits."
+156,3,4,4,Suddenly Human,1990-10-15,"On a mission to an alien training mission, they discover one of its trainees to be a human."
+157,3,4,5,Remember Me,1990-10-22,Dr. Crusher's fear of losing loved ones becomes real when her worries create an alternate reality.
+158,3,4,6,Legacy,1990-10-29,"The crew of the Enterprise enters into orbit around the home planet of their former crewmate, Tasha Yar, where they encounter her sister."
+159,3,4,7,Reunion,1990-11-05,"When the leader of the Klingon High Council dies, Picard finds himself in the middle of the struggle for the now-vacant position. Meanwhile, Worf reunites with a past love, only to find he now has a son."
+160,3,4,8,Future Imperfect,1990-11-12,Riker awakens 16 years after an away mission where he contracted a disease which destroyed his memory back to the point of infection - or so he's told.
+161,3,4,9,Final Mission,1990-11-19,"Before leaving for Starfleet Academy, Wesley Crusher accompanies Captain Picard on a dangerous mission."
+162,3,4,10,The Loss,1990-12-31,"As an unknown force drags the Enterprise, Deanna Troi struggles with the loss of her empathic abilities."
+163,3,4,11,Data's Day,1991-01-07,"Data tries to comprehend the complex emotions between O'Brien and Keiko, who are about to be married."
+164,3,4,12,The Wounded,1991-01-28,"After being fired upon by a Cardassian vessel, Picard races against time to find out the facts behind the Cardassian commander's claim that the Federation attacked one of their outposts."
+165,3,4,13,Devil's Due,1991-02-04,"While answering a distress call, Picard finds himself not sure of exactly who he is dealing with, but he's sure he's not dealing with the planet's version of the Devil, as she claims to be."
+166,3,4,14,Clues,1991-02-11,Effects of passing through a wormhole give the Enterprise crew a sense that they were unconscious for more than the 30 seconds they've been led to believe.
+167,3,4,15,First Contact,1991-02-18,"Disguised as an alien prior to First Contact, Will's life becomes imperiled when incurred injuries reveal his foreign internal structure to a xenophobic alien population."
+168,3,4,16,Galaxy's Child,1991-03-11,"As Geordi La Forge finally meets the real Dr. Leah Brahms, a tragic first contact leaves the Enterprise with a gigantic galactic infant suckling the ship's energy."
+169,3,4,17,Night Terrors,1991-03-18,"The Enterprise gets trapped in a Tyken's Rift, an energy-absorbing rupture in space, where all but Data, Troi, and Guinan experience rising hallucinations and paranoia."
+170,3,4,18,Identity Crisis,1991-03-25,Lt. Commander Geordi La Forge and an old friend fight to defeat a parasite that is trying to transform them into another species.
+171,3,4,19,The Nth Degree,1991-04-01,"When assigned to investigate an unknown probe, Lt. Barclay is hit by an energy surge, through a shuttlecraft's computer, and he receives an inexplicable boost of confidence and a vast increase in his knowledge."
+172,3,4,20,Qpid,1991-04-22,"Aiming to get out of Jean-Luc's debt, Q forces Capt. Picard and his officers to live out the Legend of Robin Hood - with a past acquaintance as Maid Marian."
+173,3,4,21,The Drumhead,1991-04-29,A retired admiral boards the Enterprise in an effort to determine the actions aboard the ship surrounding an act of sabotage and possible treason.
+174,3,4,22,Half a Life,1991-05-06,"Counselor Troi's mother visits the Enterprise and becomes infatuated with a man whose culture forces him into a suicidal ritual called ""The Resolution."""
+175,3,4,23,The Host,1991-05-13,Dr. Crusher falls for someone who's not at all what she expects him to be.
+176,3,4,24,The Mind's Eye,1991-05-27,Geordi is brainwashed by the Romulans to start a war between the Klingons and the Federation.
+177,3,4,25,In Theory,1991-06-03,"When a female crew member is infatuated with Lieutenant Commander Data, he decides to give a romantic relationship a try. Also, the Enterprise finds itself having to maneuver through a dangerous nebula."
+178,3,4,26,Redemption,1991-06-17,Both Captain Picard and Lt. Worf must decide where their priorities lie as the Klingon Empire descends into a bitter civil war.
+179,3,5,1,Redemption II,1991-09-23,"As Worf fights in the Klingon Civil War, Captain Picard and his crew must stop the Romulans from helping their pawns achieve victory."
+180,3,5,2,Darmok,1991-09-30,Picard must learn to communicate with a race that speaks in metaphor under a difficult set of circumstances.
+181,3,5,3,Ensign Ro,1991-10-07,"Captain Picard foils a plot against the Bajorans with his new Bajoran officer, Ensign Ro."
+182,3,5,4,Silicon Avatar,1991-10-14,"The Crystalline Entity returns, and the Enterprise takes aboard a scientist to help track it down, but her personal agenda does not match Capt. Picard's."
+183,3,5,5,Disaster,1991-10-21,Collision with a quantum filament leaves Troi in charge of a damaged and endangered Enterprise with emergency bulkheads cutting off sections of the ship.
+184,3,5,6,The Game,1991-10-28,Wesley Crusher returns to the Enterprise on vacation from the Academy only to discover a mysterious alien game infiltrating and controlling the crew.
+185,3,5,7,Unification I,1991-11-04,Picard and Data follow Spock into Romulan space on a dangerous mission.
+186,3,5,8,Unification II,1991-11-11,"On Romulus, Picard finds Spock, as well as an underground peace movement, a double agent, a bold ulterior motive against the Federation, and a familiar adversary."
+187,3,5,9,A Matter of Time,1991-11-18,"Reaching Penthara IV after an asteroid wreaks havoc of catastrophic proportions, the Enterprise crew deals with trying to save the planet as well as deal with someone who claims to be a historian from the future."
+188,3,5,10,New Ground,1991-12-30,"Geordi can barely curtail his enthusiasm at being able to test out a new theory of transportation, as Worf's mother boards the Enterprise with his son and news that Worf's Earthly parents can no longer care for him."
+189,3,5,11,Hero Worship,1992-01-06,"Data rescues an orphaned boy named Timothy from a damaged ship. As a way to repress his own pain, Timothy begins to mimic Data's personality."
+190,3,5,12,Violations,1992-01-27,"Transporting three Ullian mind-probing historians, the Enterprise crew is stymied when some of its members fall into a coma. Deanna Troi, the first crew member to come through it, cannot recall anything surrounding the incident."
+191,3,5,13,The Masterpiece Society,1992-02-03,"Working together to prevent the annihilation of a perfectly balanced, isolated society (with no contingency for outside visitors) may, in fact, destroy it."
+192,3,5,14,Conundrum,1992-02-10,"When an approaching alien ship wipes their memory, the crew struggles to put back together what happened."
+193,3,5,15,Power Play,1992-02-17,"A long-lost ship is found on a planet where cosmic storms prevented detection for 200 years. When a surface landing goes wrong, the away team is beamed back...with a few extra surprises."
+194,3,5,16,Ethics,1992-02-24,"After an accident that leaves him no longer able to walk, Worf asks Riker to help him commit suicide."
+195,3,5,17,The Outcast,1992-03-16,"While aiding an androgynous race who lost a couple of members in an unmapped region of space, Riker falls for one of them, which can lead to trouble if detected, since the alien race does not endorse gender specificity."
+196,3,5,18,Cause and Effect,1992-03-23,The Enterprise gets caught in a time loop which always has one result: total destruction of the ship itself.
+197,3,5,19,The First Duty,1992-03-30,"Wesley Crusher's team has an accident at Starfleet Academy. Picard offers to help a Starfleet investigation as to what happened, and begins to suspect they are hiding something."
+198,3,5,20,Cost of Living,1992-04-20,"As undetectable parasites devour the ship, Deanna's mother arrives, taking young Alexander under her wing en route to meeting a man she's blindly agreed to marry."
+199,3,5,21,The Perfect Mate,1992-04-27,"Ferengi machinations unleash a diplomatic gift aboard the Enterprise - the rare, empathic perfect mate, ready to bond with any male around her."
+200,3,5,22,Imaginary Friend,1992-05-04,"A powerful, potentially dangerous energy life form, intent on scouting out the Enterprise, steps into the role of a girl's imaginary friend."
+201,3,5,23,I Borg,1992-05-11,"The Enterprise finds a lone Borg drone, separated from the collective, and brings him aboard. The drone begins to reassert his individuality, but his presence causes differing levels of fear and sympathy from various crew members."
+202,3,5,24,The Next Phase,1992-05-18,"A transporter malfunction, combined with a Romulan ship under stress and a damaged cloaking device, creates the illusion that Ensign Ro and Geordi are dead, but Geordi doesn't believe it to be so, and he acts accordingly."
+203,3,5,25,The Inner Light,1992-06-01,Picard awakes to find himself living in a small village where he is a well-known member of the community who is suffering from a delusion of being a starship captain.
+204,3,5,26,Time's Arrow,1992-06-15,Captain Picard and his archaeological curiosity are called upon by scientists from Earth when they find evidence to support beliefs that aliens had visited Earth in the late 1800s.
+205,3,6,1,"Time's Arrow, Part II",1992-09-21,"Captain Picard and crew follow Data back to the late 1800s to get him back, only to find the suspected alien visitors killing people of that time."
+206,3,6,2,Realm of Fear,1992-09-28,"Overcoming his fear of transporter, Lt. Barclay joins an away team, only to find something in the beam with him."
+207,3,6,3,Man of the People,1992-10-05,"When the Enterprise comes to the rescue of an ambassador and his ""mother"", Deanna finds herself attracted to him, and seeks to comfort him upon her death."
+208,3,6,4,Relics,1992-10-12,"The Enterprise stumbles upon a Dyson sphere, with a ship crashed on the outer surface. An away team finds some systems still powered up and the chief engineer from the old Enterprise, Montgomery Scott, locked in the transporter cycle."
+209,3,6,5,Schisms,1992-10-19,"Commander Riker's inability to fall asleep begins to show in other members of the crew in other forms, putting the Enterprise on the trail of a mystery."
+210,3,6,6,True Q,1992-10-26,"When an honor student in the medical field is assigned to the Enterprise in an internship manner, she begins to demonstrate powers of the Q, prompting you-know-who to show up."
+211,3,6,7,Rascals,1992-11-02,An emergency beam out renders four crewmen down to childhood shortly before renegade Ferengi take over the Enterprise and offload the adults.
+212,3,6,8,A Fistful of Datas,1992-11-09,"While the crew is experiencing some much needed down time, Worf and his son go on an Old West excursion in the holodeck, where they meet several versions of Data serving as the bad guy after an experiment in Engineering goes wrong."
+213,3,6,9,The Quality of Life,1992-11-16,"When Geordi is assigned to survey a new mining development with Dr. Farallon, who invented an experimental mining technology, she uses a new sophisticated robot called an Exocomp to repair a power grid."
+214,3,6,10,"Chain of Command, Part I",1992-12-14,"Picard is replaced as captain of the Enterprise so he, Lt. Worf and Dr. Crusher go on a top-secret mission into Cardassian space. Meanwhile, his replacement, Captain Jellico, meets his new command with some resistance from the crew."
+215,3,6,11,"Chain of Command, Part II",1992-12-21,"While the humorless Captain Jellico leads the endeavor to prevent a Cardassian invasion, Picard is captured and tortured by a ruthless interrogator in an attempt to break him."
+216,3,6,12,Ship in a Bottle,1993-01-25,"Lt. Barclay mistakenly awakes Moriarty in the forgotten holodeck program, who then makes his demands clear and unforgettable."
+217,3,6,13,Aquiel,1993-02-01,"Murderous intrigue abounds for the Enterprise when one of the crew aboard a subspace station is believed dead, and suspected to have taken part in it until the Klingons show up with the young lieutenant, to Geordi's taste."
+218,3,6,14,Face of the Enemy,1993-02-08,"Deanna awakes to find herself altered to look like a Romulan, immediately unaware she's involved in a cat-and-mouse game as a member of their intelligence agency."
+219,3,6,15,Tapestry,1993-02-15,"When Captain Picard's artificial heart fails, he is offered the rare opportunity to go back in time and set right the mistake that led to his demise."
+220,3,6,16,"Birthright, Part I",1993-02-22,"While visiting Deep Space 9, a Yridian tells Worf his father lives, and a discharge from an alien device puts Data in a dream state where he meets his own father."
+221,3,6,17,"Birthright, Part II",1993-03-01,"In seeking his father, Worf discovers a prisoner-of-war camp that has evolved into a Klingon/Romulan haven - an Eden where Worf becomes their serpent."
+222,3,6,18,Starship Mine,1993-03-29,"When the Enterprise puts in to space dock for an energy sweep of the ship which is lethal to humans, Picard gets trapped on board with technicians who are not what they appear to be."
+223,3,6,19,Lessons,1993-04-05,"Picard falls for the new head of the stellar science services department, but has feelings of misgivings when he's forced to assign her to a dangerous mission."
+224,3,6,20,The Chase,1993-04-26,The crew of the Enterprise must race against various rival powers to uncover an archaeological secret that explains the predominance of humanoid life forms in the galaxy.
+225,3,6,21,Frame of Mind,1993-05-03,Riker begins to question reality when he finds himself in an alien insane asylum and faces the prospect his life on the Enterprise has been a delusion.
+226,3,6,22,Suspicions,1993-05-10,Dr. Crusher puts her career on the line to prove a scientist's theoretical new shielding technology which may have cost him his life.
+227,3,6,23,Rightful Heir,1993-05-17,"During Worf's crisis of faith on Boreth, Kahless the Unforgettable makes his promised legendary return, but Klingon leader Gowron challenges his authenticity."
+228,3,6,24,Second Chances,1993-05-24,Riker's exact duplicate is discovered on Nervala IV. His first order of business: resume his relationship with Deanna. Second order: obey orders from his superior - himself.
+229,3,6,25,Timescape,1993-06-14,"Aboard a shuttlecraft and en route back to the Enterprise, Picard, LaForge, Data, and Troi find themselves trapped in a time trap of some sort, where the Enterprise is being taken over by Romulans, and the ship, itself, on a course of destruction."
+230,3,6,26,"Descent, Part I",1993-06-21,"When Data experiences his first emotion, anger, after an encounter with the Borg, Data tries hard to recreate the experience, and he is blind as to what the consequences will be. Meanwhile, the rest of the Enterprise investigate the mystery as to why the Borg they faced seemed to have names and feelings of their own."
+231,3,7,1,"Descent, Part II",1993-09-20,"Before Lore can run risky experiments on Geordi, Troi and Picard, the three seek a way to re-boot Data's ethical program that Lore switched off to pull Data to his side."
+232,3,7,2,Liaisons,1993-09-27,"On a diplomatic mission, Worf, Troi and the Captain deal with three aliens who explore foreign concepts with extreme, singular focus."
+233,3,7,3,Interface,1993-10-04,Geordi is distracted by the news of the possible loss of his mother while he uses a new remote probe technology to search for a downed spacecraft.
+234,3,7,4,"Gambit, Part I",1993-10-11,"While investigating the apparent death of Capt. Picard, Riker is abducted by a group of intergalactic archaeological thieves, only to find Picard has apparently joined their ranks."
+235,3,7,5,"Gambit, Part II",1993-10-18,Riker and Picard must find out why this intergalactic gang is looting archaeological sites.
+236,3,7,6,Phantasms,1993-10-25,Data deals with his new ability to experience nightmares as the Enterprise deals with the installation of a new warp core that won't work as expected.
+237,3,7,7,Dark Page,1993-11-01,"While establishing diplomatic relations with an alien race called the Cairn, Deanna's mother experiences a mental breakdown and falls into a coma, and it seems like Deanna is the only one who is able to help her, even if her mother doesn't want it."
+238,3,7,8,Attached,1993-11-08,"Captain Picard and Dr. Crusher discover things about one another when they are captured by an opposing alien race, due to the fact that the Enterprise has come to allow the planet's other civilization the choice of being part of the Federation."
+239,3,7,9,Force of Nature,1993-11-15,"While searching for a missing Federation medical transport, the Enterprise is accosted by two scientists from a nearby planet who claim that cumulative exposure to warp energy is weakening the fabric of space."
+240,3,7,10,Inheritance,1993-11-22,"On Federation planet Atrea IV, Data encounters the former wife of his creator Noonian Soong who claims to be his ""mother""."
+241,3,7,11,Parallels,1993-11-29,"On his return from a bat'leth competition in the Klingon Empire, Worf finds himself shifting realities where events and details are in a constant state of flux and only he is aware of the changes."
+242,3,7,12,The Pegasus,1994-01-10,"Riker finds out his former commander from the starship Pegasus has orders that entail more than what is revealed to Picard, who thinks the Enterprise is en route to recover the lost ship. And Riker is ordered to secrecy."
+243,3,7,13,Homeward,1994-01-17,"In an attempt to preserve a race of people on a planet being bombarded by storms that would kill them, Worf's foster brother violates the Prime Directive, leaving the Enterprise crew in a difficult position."
+244,3,7,14,Sub Rosa,1994-01-31,"Dr. Crusher meets the man in her dead grandmother's life when she tries to put her affairs in order, whom one of the local people warn her to stay away from by not lighting a candle that has been lit for generations."
+245,3,7,15,Lower Decks,1994-02-07,"A mission of the Enterprise is seen through the eyes of some junior officers who are up for promotions, as questions of duty and honor arise among some of them, such as a Bajoran whom Worf has designated to be promoted to operations."
+246,3,7,16,Thine Own Self,1994-02-14,"Data is sent to follow a probe that has drifted off course and crashed on a primitive planet, only to crash on the planet himself, with no memory of any event prior to crashing on the planet's surface."
+247,3,7,17,Masks,1994-02-21,"Investigating a rogue comet that's been traveling throughout the universe for over 87 million years, Picard discovers alien beings within the comet, which infest the computer systems on the Enterprise, as well as Data."
+248,3,7,18,Eye of the Beholder,1994-02-28,"As a young lieutenant aboard the Enterprise commits suicide, his shipmates deal with the loss and Deanna deals with feelings surrounding her as she and Worf begin to form a relationship."
+249,3,7,19,Genesis,1994-03-21,"When a new torpedo guidance system malfunctions, Picard and Data go chasing after it into an asteroid field, while the crew is left behind to deal with their own strange behaviors."
+250,3,7,20,Journey's End,1994-03-28,"After the Federation grants access by the Cardassians to a planet already inhabited by Native Americans, Picard has the daunting task of relocating them."
+251,3,7,21,Firstborn,1994-04-25,"In an effort to help him accept his Klingon heritage, Worf and his son, Alexander, attend an ancient Klingon ceremony."
+252,3,7,22,Bloodlines,1994-05-02,Picard races the Ferengi in an effort to track down the son he never knew he had.
+253,3,7,23,Emergence,1994-05-09,Strange images begin appearing throughout the ship's decks and holodecks. Data and the rest of the crew begin to investigate only to discover that the ship's computer itself is exhibiting the strange behavior as it begins to become self-aware.
+254,3,7,24,Preemptive Strike,1994-05-16,"Following her return from Advanced Tactical Training, Bajoran Ro Laren is sent to infiltrate the Maquis and finds herself torn between her loyalty to Picard and Starfleet, and her sympathy with the Maquis fighting ""the good fight""."
+255,3,7,25,All Good Things...,1994-05-23,"Capt. Picard finds himself shifting continually into the past, future and present and must use that to discover a threat to humanity's existence."
+256,4,1,1,Emissary,1993-01-03,"When the troubled Commander Sisko takes command of a surrendered space station, he learns that it borders a unique stable wormhole."
+257,4,1,2,Past Prologue,1993-01-10,"Tahna Los, a former Bajoran terrorist during the Occupation, asks Sisko for asylum on DS9. Meanwhile, the station's last Cardassian inhabitant, Garak, possibly a former spy for the Cardassian government, proves an interesting mystery to Dr. Bashir."
+258,4,1,3,A Man Alone,1993-01-17,"Ibudan, a criminal Odo has dealt with before, returns to DS9 only to be murdered shortly after - leaving Odo to be the prime suspect. Jake and Nog's trouble-making prompt Keiko to do something helpful for the station's children."
+259,4,1,4,Babel,1993-01-24,"The crew and civilian population of Deep Space Nine begin to speak gibberish when a plague - an 'aphasia virus' - engineered by the Bajorans as a weapon against the Cardassians, accidentally gets released into the station's atmosphere."
+260,4,1,5,Captive Pursuit,1993-01-31,For the first time an alien comes from the other side of the wormhole. He has ship trouble and seems very reluctant to accept any help. Chief O'Brien quickly finds out he has a secret.
+261,4,1,6,Q-Less,1993-02-07,"Q, the Enterprise-D's consistent omnipotent annoyance, comes to harass the DS9 crew when his traveling companion, Vash, refuses to travel with Q any longer."
+262,4,1,7,Dax,1993-02-14,"Jadzia Dax is accused of a murder that her previous host, Curzon, supposedly committed."
+263,4,1,8,The Passenger,1993-02-21,"Rao Vantika, a captured criminal, is badly burned and dies in Bashir's arms but the criminal's captor believes that he is still alive."
+264,4,1,9,Move Along Home,1993-03-14,"The Wadi from the Gamma Quadrant visit DS9, thereby making first contact with the Federation. When they catch Quark cheating, they let him off by playing a special game."
+265,4,1,10,The Nagus,1993-03-21,"The Ferengi leader, Grand Nagus Zek, comes to the station. He seems very interested in Quark's bar."
+266,4,1,11,Vortex,1993-04-18,"A man named Croden tells Odo he can take him to a place where aliens much like Odo himself exist, which would help Odo find out where he truly comes from."
+267,4,1,12,Battle Lines,1993-04-25,"The soldiers of a planet's long-running war have been sent to a distant planetoid in the Gamma quadrant, where they continue to fight to the death. A shuttle from DS9, carrying Capt Sisko, Kira, and Kai Opaka, crashes on this planet."
+268,4,1,13,The Storyteller,1993-05-02,"While Sisko tries to negotiate an agreement between two Bajoran factions, he orders O'Brien to escort Bashir to investigate an emergency that endangers a village."
+269,4,1,14,Progress,1993-05-09,Kira must convince an old Bajoran farmer to leave a moon becoming uninhabitable due to mining operations. Jake and Nog try to trade off Cardassian yamok sauce.
+270,4,1,15,If Wishes Were Horses,1993-05-16,"While Dax investigates an unusual energy reading near DS9 to see if it's dangerous for the station, people's imaginations suddenly come alive, causing chaos."
+271,4,1,16,The Forsaken,1993-05-23,"Lwaxana Troi comes for a political visit and instead hounds Odo for romantic attention. Meanwhile, an alien probe wreaks havoc with the station's computer, leaving Odo and Lwaxana trapped together."
+272,4,1,17,Dramatis Personae,1993-05-30,"The entire station's command staff, save Odo, become power hungry and vie to defeat each other by forming secret alliances and plotting assassinations. Odo tries to figure out the cause of this mysterious behavior."
+273,4,1,18,Duet,1993-06-13,"A Cardassian suffering from Kalla-Nohra, a disease that indicates he served in a labor camp, visits DS9. Kira is determined to convict him as a war criminal."
+274,4,1,19,In the Hands of the Prophets,1993-06-20,"Vedek Winn, a candidate in the race for the open Kai position, stirs up trouble on DS9 when she attempts to boycott Keiko's school for not teaching Bajoran religious beliefs."
+275,4,2,1,The Homecoming,1993-09-26,"Word that a previously thought dead Bajoran resistance legend is still alive sends Kira and Chief O'Brien to Cardassia IV to rescue him; meanwhile ""The Circle"", a sect of the Bajoran provisional government that is intent on wiping out alien influence, is sneaking into power."
+276,4,2,2,The Circle,1993-10-03,Kira spends time with Vedek Bareil on Bajor just as the Circle begins receiving arms from an unknown source.
+277,4,2,3,The Siege,1993-10-10,"As a Circle-led Bajoran military attempts to occupy the station, a skeleton crew, led by Sisko fight to reveal the Circle's secret before they're forced to evacuate themselves. Meanwhile, Kira and Dax lead a mission to reveal the truth about the Circle, on Bajor."
+278,4,2,4,Invasive Procedures,1993-10-17,"A jealous Trill, who had waited his entire life to receive a symbiont but never did, decides to steal Dax's."
+279,4,2,5,Cardassians,1993-10-24,Political tensions rise on DS9 when Bajorans board the station with a supposedly orphaned Cardassian whom they have adopted.
+280,4,2,6,Melora,1993-10-31,"Melora Pazlar, a new arrival on DS9 with a special gravity-based disability, finds an admirer in Bashir. Meanwhile, an old associate of Quark's comes to the station to kill the bartender."
+281,4,2,7,Rules of Acquisition,1993-11-07,"A female Ferengi named Pel, posing as a male so that she can engage in business, falls for Quark during very important negotiations between the Ferengi and a Gamma Quadrant race."
+282,4,2,8,Necessary Evil,1993-11-14,"Odo relives some terrible and tragic memories of a past investigation when he was the constable on Cardassian-occupied Deep Space Nine, then named Terok Nor."
+283,4,2,9,Second Sight,1993-11-21,"While noted scientist Gideon Seyetik is preparing for an ambitious project, re-igniting a star, Sisko is intrigued by a woman who keeps disappearing."
+284,4,2,10,Sanctuary,1993-11-28,"A race that has been conquered twice over, one of the conquerors being the mysterious Dominion, comes to the station seeking aid and a new home."
+285,4,2,11,Rivals,1994-01-02,"Quark meets his match when a new rival opens a casino opposite his bar on the Promenade. Meanwhile, the station is suffering issues of high improbability."
+286,4,2,12,The Alternate,1994-01-09,Odo and his mentor Dr. Mora Pol discover a lifeform similar to Odo on a Gamma Quadrant planet.
+287,4,2,13,Armageddon Game,1994-01-30,"Chief O'Brien, who still doesn't particularly like Doctor Bashir, must rely on him when the two are stranded on a planet and O'Brien is infected with a deadly, fast moving disease."
+288,4,2,14,Whispers,1994-02-06,Chief O'Brien's world is turned upside down when for no reason whatsoever he is being ignored by his family and friends and is being closed out of every essential job on the station.
+289,4,2,15,Paradise,1994-02-13,Sisko and Chief O'Brien discover a colony which lives without technology.
+290,4,2,16,Shadowplay,1994-02-20,"Odo and Dax investigate the mysterious disappearance of people from a village. Kira tries to keep a close eye on Quark, while Vedek Bareil unexpectedly visits."
+291,4,2,17,Playing God,1994-02-27,"A Trill named Arjin comes to DS9 to learn what it is to be a Trill with a symbiont but finds his teacher, Dax, to be less than he expected."
+292,4,2,18,Profit and Loss,1994-03-20,"A Cardassian woman named Natima Lang, who was once a flame of Quark's, visits the station under dubious circumstances."
+293,4,2,19,Blood Oath,1994-03-27,Three legendary Klingons come to DS9 to see if Jadzia will participate in a blood oath that they made with Dax's previous host Curzon.
+294,4,2,20,"The Maquis, Part I",1994-04-24,"The destruction of a Cardassian ship leads Sisko, Dukat, and Sisko's old friend Cal Hudson to the fact that there is an unofficial war between the Maquis and the Cardassians."
+295,4,2,21,"The Maquis, Part II",1994-05-01,"Sisko tries to resolve the Maquis crisis by preventing a war, freeing Gul Dukat and offering the defected Hudson the chance to return."
+296,4,2,22,The Wire,1994-05-08,"Dr. Bashir fights to save Garak's life when a device implanted in his brain, designed to alleviate pain in the event of torture, begins to malfunction and is slowly killing him."
+297,4,2,23,Crossover,1994-05-15,Kira and Bashir find themselves in an alternate universe.
+298,4,2,24,The Collaborator,1994-05-22,"Vedek Bareil's targeted by fellow Kai candidate, Vedek Winn as having been a collaborator with the Cardassians during the Occupation."
+299,4,2,25,Tribunal,1994-06-05,Chief O'Brien goes through the horrific Cardassian judicial system when he is charged for an unknown crime.
+300,4,2,26,The Jem'Hadar,1994-06-12,"While in the Gamma Quadrant, Sisko, Quark and a strange telepathic woman are captured by the Jem'Hadar, the soldiers of the Dominion."
+301,4,3,1,"The Search, Part I",1994-09-24,"Instead of waiting for the Jem'Hadar to attack, Sisko wants to try a different tactic; he wants to take a new class starship to try to find the Founders."
+302,4,3,2,"The Search, Part II",1994-10-01,Odo has found his home and is introduced. Meanwhile Sisko finds out peace talks between the Dominion and the Federation have already started.
+303,4,3,3,The House of Quark,1994-10-08,"Quark is forced to marry a Klingon widow after he takes credit for the accidental death of her husband, the head of a powerful Klingon House."
+304,4,3,4,Equilibrium,1994-10-15,"The Trill homeworld is the setting, as Sisko and Bashir take Jadzia home for treatment when she begins experiencing hallucinations after playing a tune she can't recall."
+305,4,3,5,Second Skin,1994-10-22,Kira finds herself on Cardassia as a Cardassian. She is told she is called Iliana Ghemor and was a Cardassian spy.
+306,4,3,6,The Abandoned,1994-10-29,"Odo tries to change the nature of a rapidly maturing infant Quark finds, while Sisko tries to break his son's relationship with a 20 year old Dabo girl."
+307,4,3,7,Civil Defense,1994-11-05,The station goes into lockdown and the crew is endangered when an old Cardassian security program is accidentally activated.
+308,4,3,8,Meridian,1994-11-12,"Dax falls in love with one of the residents of a multi-dimensional planet, while on DS9 an alien requests a holosuite program of Kira from Quark."
+309,4,3,9,Defiant,1994-11-19,Riker arrives on the station to requisition the Defiant in order to fight with the Maquis. Sisko assists Gul Dukat on Cardassia Prime to prevent the ship from entering Cardassian territory.
+310,4,3,10,Fascination,1994-11-26,"When Lwaxana Troi visits the station for the Bajoran Gratitude Festival, the crew is stricken with intense romantic attractions to one another."
+311,4,3,11,Past Tense: Part I,1994-12-31,"Sisko, Bashir and Dax are accidentally sent to San Francisco in the 21st century due to a transporter malfunction, and must figure out how to get back to return without changing the time line."
+312,4,3,12,Past Tense: Part II,1995-01-07,Sisko is forced to take the place of a key historical figure on Earth in 2024 in order to preserve the timeline.
+313,4,3,13,Life Support,1995-01-28,Dr. Bashir must use extraordinary measures to prolong Vedek Bareil's life long enough to allow Bareil to complete sensitive peace negotiations between the Bajorans and the Cardassians.
+314,4,3,14,Heart of Stone,1995-02-04,"After chasing a fugitive into a cave, Kira gets stuck and is slowly encapsulated by a growing crystal stone while Odo tries to figure out how to free her."
+315,4,3,15,Destiny,1995-02-11,Sisko faces a conflict between his Starfleet duties and his role as the Bajoran Emissary when an ancient Bajoran prophecy predicts a joint Federation-Cardassian project will lead to the destruction of the wormhole.
+316,4,3,16,Prophet Motive,1995-02-18,Grand Nagus Zek is acting bizarre by giving away money and rewriting the Rules of Acquisition. Quark attempts to get the old Nagus back.
+317,4,3,17,Visionary,1995-02-25,"While a Romulan delegation tries to get information about the Dominion, O'Brien sees of unpleasant things that are about to happen in the future."
+318,4,3,18,Distant Voices,1995-04-08,"After being attacked in the infirmary, Dr. Bashir has a dual mystery on his hands: what has happened to the station while he was out and why is he aging so rapidly now?"
+319,4,3,19,Through the Looking Glass,1995-04-15,Sisko is kidnapped and forced to impersonate his deceased mirror universe counterpart in order to convince Jennifer Sisko to defect to the Terran Rebellion.
+320,4,3,20,Improbable Cause,1995-04-22,"After an attempt is made on Garak's life, Odo conducts the investigation on who tried to murder the Cardassian tailor - and why."
+321,4,3,21,The Die Is Cast,1995-04-29,"Now rejoined with his former mentor, Garak is ordered to interrogate Odo about the secrets of his people, while the joined Romulan/Cardassian attack fleet moves towards the Founders' home world on a mission of destruction."
+322,4,3,22,Explorers,1995-05-06,"Sisko rebuilds an ancient Bajoran space vessel from the blueprints, and he and Jake take the ship on a trip, attempting to prove that the ancient Bajorans went beyond their solar system without warp drive."
+323,4,3,23,Family Business,1995-05-13,"Quark and Rom return to the Ferengi home world because their mother has broken the law - by wearing clothes and earning profits, forbidden for women in Ferengi society."
+324,4,3,24,Shakaar,1995-05-20,News arrives that Kai Winn has also become Bajor's political leader. She asks Kira to negotiate with an old resistance friend about returning soil reclamators.
+325,4,3,25,Facets,1995-06-10,Dax asks the crew to join her Zhian'tara ritual. The memories of her former hosts will take over their bodies. Nog is preparing for Starfleet Academy.
+326,4,3,26,The Adversary,1995-06-17,"The Defiant is sent to display a Federation presence to the new Tzenkethi government. Repeated ship ""malfunctions"" lead Sisko to believe a changeling is aboard, engaging in sabotage."
+327,4,4,1,The Way of the Warrior,1995-09-30,Sisko becomes uncomfortable when the Klingons station a task force to help defend against the Dominion. Worf is summoned to find out their true intentions.
+328,4,4,2,The Visitor,1995-10-07,"Melanie, an aspiring writer, wants to know why Jake Sisko stopped writing at 40. Jake tells how his father died in an accident and then suddenly reappeared."
+329,4,4,3,Hippocratic Oath,1995-10-14,Bashir is asked to help a group of renegade Jem'Hadar break their addiction to ketracel white. Meanwhile Worf is dissatisfied with the way Odo runs security.
+330,4,4,4,Indiscretion,1995-10-21,"Kira and Gul Dukat go after the lost prison ship Ravinok. Dukat has a secret. Meanwhile Kasidy Yates tries to find work near Bajor, leaving Sisko uncomfortable."
+331,4,4,5,Rejoined,1995-10-28,"Lenara Kahn, the new host of the wife of Dax's former host Torias, comes to the station. While they're not allowed to renew their relation, there's still a spark."
+332,4,4,6,Little Green Men,1995-11-04,"Quark and Rom take Nog to Earth and Starfleet Academy, but a malfunction with the ship takes the crew back in time, to Roswell, New Mexico in 1947."
+333,4,4,7,Starship Down,1995-11-11,A damaged Defiant must play a dangerous game of cat-and-mouse with two Jem'Hadar ships inside a gas giant.
+334,4,4,8,The Sword of Kahless,1995-11-18,"Worf, Dax and the Klingon Dahar master Kor set out to find an ancient lost relic: the Sword of Kahless."
+335,4,4,9,Our Man Bashir,1995-11-25,"When a transporter emergency turns the command crew into holosuite characters, Bashir's James Bond fantasy takes on a deadly reality."
+336,4,4,10,Homefront,1995-12-30,Sisko travels to Earth when a bombing at a Federation conference is determined to be the work of Changelings.
+337,4,4,11,Paradise Lost,1996-01-06,"When Starfleet institutes martial law to combat the Changeling Menace, Sisko begins to question if the Dominion is the real threat."
+338,4,4,12,Crossfire,1996-01-27,"First Minister Shakaar visits the station, despite a threat of assassination. He falls in love with Kira much to Odo's dismay."
+339,4,4,13,Return to Grace,1996-02-03,"Dukat returns, stripped of his prestige, to escort Kira to a Cardassian conference about the Dominion. But an attack by a Klingon raider may give Dukat a chance to redeem himself in the eyes of his government."
+340,4,4,14,Sons of Mogh,1996-02-10,"Worf's brother Kurn asks him to perform a death rite to regain his lost honor. Meanwhile, Kira and O'Brien investigate Klingon activity near the Bajoran border."
+341,4,4,15,Bar Association,1996-02-17,"Unfair working conditions and pay cuts cause Rom to organize a union of the employees of Quark's Bar. Meanwhile, Worf still finds it hard to settle on the station."
+342,4,4,16,Accession,1996-02-24,A man claiming to be the emissary comes through the wormhole. Sisko is happy to give up his position. Meanwhile Keiko returns and O'Brien stops spending time with Bashir.
+343,4,4,17,Rules of Engagement,1996-04-06,"When Worf destroys a civilian shuttle during an engagement with the Klingons, an extradition hearing is held to see if he must face charges."
+344,4,4,18,Hard Time,1996-04-13,O'Brien tries to re-integrate to life on the station after serving 20 years in a virtual prison.
+345,4,4,19,Shattered Mirror,1996-04-20,"When the Mirror Universe counterpart of Sisko's deceased wife lures Jake to the other side, Sisko must follow and help the Terran resistance against the Alliance forces."
+346,4,4,20,The Muse,1996-04-27,A mysterious woman approaches Jake about his future as a writer. Odo promises to do whatever it takes to help Lwaxana Troi keep her baby over the father's wishes - even if it means marrying her himself.
+347,4,4,21,For the Cause,1996-05-04,Sisko must face betrayal when evidence surfaces that Kasidy is smuggling for the Maquis. Meanwhile Garak makes acquaintance with Ziyal.
+348,4,4,22,To the Death,1996-05-11,A renegade group of Jem'Hadar plunders Deep Space Nine. Sisko agrees to a combat operation with loyal Jem'Hadar to prevent the renegades completing a planetary gateway.
+349,4,4,23,The Quickening,1996-05-18,Bashir tries to help a planet in the grips of a Dominion-engineered plague that guarantees a painful death.
+350,4,4,24,Body Parts,1996-06-08,"Quark believes he's going to die, and Rom convinces him to sell his remains. After an accident, Bashir must move Keiko's fetus to Kira's womb."
+351,4,4,25,Broken Link,1996-06-15,Odo is suddenly struck by illness. He is barely able to hold shape. Bashir and Odo see no other alternative than going to the Founders. Garak wants to come along.
+352,4,5,1,Apocalypse Rising,1996-09-30,"With the war between Klingons and Federation intensifying, Sisko must make a plan to expose Gowron as a changeling. Odo is still having trouble with becoming a solid."
+353,4,5,2,The Ship,1996-10-07,The crew is forced to retreat in a crashed Jem'Hadar ship after an attack by the Jem'Hadar. They get the feeling there's something very important about this ship.
+354,4,5,3,Looking for par'Mach in All the Wrong Places,1996-10-14,"While Worf helps Quark to pursue his former wife Grilka, O'Brien and Kira grow uncomfortably close to each other."
+355,4,5,4,...Nor the Battle to the Strong,1996-10-21,"Jake, reporting from the front lines, sees what war truly is."
+356,4,5,5,The Assignment,1996-10-28,"A Pah-wraith possesses Keiko's body and forces Chief O'Brien to complete a task, or Keiko'll be killed."
+357,4,5,6,Trials and Tribble-ations,1996-11-04,Sisko tells two men from Temporal Investigations how he and his crew went back in time to when Captain James Kirk of the first Starship Enterprise exposed a Klingon spy with the help of Tribbles.
+358,4,5,7,Let He Who Is Without Sin...,1996-11-11,"While vacationing on Risa, Worf and Dax meet a group of fundamentalist protesters who claim that the Federation has gone soft."
+359,4,5,8,Things Past,1996-11-18,"Sisko, Dax, Odo and Garak find themselves in the past when the Cardassians controlled the station, and a crime that Odo investigated may be the key."
+360,4,5,9,The Ascent,1996-11-25,"On their way to answer a warrant, Odo and Quark crash, and must put aside their differences to survive and signal for help."
+361,4,5,10,Rapture,1996-12-30,"Sisko begins having visions that may show him how to best help Bajor, but they're killing him."
+362,4,5,11,The Darkness and the Light,1997-01-06,A mysterious assassin begins wiping out all the members of Kira's old resistance cell.
+363,4,5,12,The Begotten,1997-01-27,Odo's discovery of an infant Changeling offers him an opportunity to address what he believes were the mistakes in his upbringing by Dr. Mora.
+364,4,5,13,For the Uniform,1997-02-03,"When the traitorous Eddington returns, Sisko will go to any lengths to capture him."
+365,4,5,14,In Purgatory's Shadow,1997-02-10,"A coded message from the Gamma Quadrant leads Garak to believe his mentor, Enabran Tain, is still alive. He and Worf seek him out, only to discover something much worse: a Dominion invasion fleet poised to attack the Alpha Quadrant."
+366,4,5,15,By Inferno's Light,1997-02-17,The station readies for a Dominion attack. Worf and Garak meet some unexpected friends in a Dominion Prison camp.
+367,4,5,16,"Doctor Bashir, I Presume?",1997-02-24,"Dr. Bashir is selected to be the model for the next-generation of Emergency Medical Hologram (EMH). But he balks when his parents are invited to the station to be interviewed by the EMH programmer, Dr. Zimmerman. There is a dark secret in his family that he's afraid that his parents will reveal."
+368,4,5,17,A Simple Investigation,1997-03-31,Odo becomes romantically attached to a woman working with the Orion Syndicate.
+369,4,5,18,Business as Usual,1997-04-07,Quark must wrestle with his conscience when he becomes involved with arms merchants.
+370,4,5,19,Ties of Blood and Water,1997-04-14,"When a Cardassian official, who thinks of Kira as his daughter, is dying, he agrees to reveal all he knows to her. But the experience dredges up Kira's memories of her own father's death."
+371,4,5,20,Ferengi Love Songs,1997-04-21,Quark doesn't know whether to be panicked or overjoyed when he learns that his mother is the new lover of the Grand Nagus.
+372,4,5,21,Soldiers of the Empire,1997-04-28,Dax and Worf accompany Martok on his first command since being held by the Dominion. But the ship they are given hasn't seen victory in months and the crew is near mutinous.
+373,4,5,22,Children of Time,1997-05-05,"The DS9 crew discovers a small colony on a remote world that was originally populated by them 200 years earlier due to a time-travel accident with the Defiant. The current colonists lives depend on making sure that accident happens again, even though they've now forwarned the crew that it will happen. Each crew member needs to decide if they are willing to give up their lives on DS9 in order to preserve the history of the colony."
+374,4,5,23,Blaze of Glory,1997-05-12,"Driven to desperation by the Dominion, the Maquis launch a massive bio-weapons strike towards Cardassia. Sisko must trust the traitor Eddington to try to stop them."
+375,4,5,24,Empok Nor,1997-05-19,"While salvaging components from DS9's sister station, the crew run afoul of a ""surprise"" left behind by the Cardassians."
+376,4,5,25,In the Cards,1997-06-09,"Jake and Nog go through hell and high water, from participating in an auction to dealing with the Dominion, to receiving a Willie Mays baseball card, all in order to cheer up the war-fatigued Captain Sisko."
+377,4,5,26,Call to Arms,1997-06-16,Deep Space Nine prepares for a Dominion attack.
+378,4,6,1,A Time to Stand,1997-09-27,"Borrowing a captured Jem'Hadar attack ship, Sisko and crew embark on a mission to destroy the hidden base where all of the ketracel-white is stored for the entire Alpha Quadrant."
+379,4,6,2,Rocks and Shoals,1997-10-04,"Sisko and his crew crash on a barren world when their commandeered Jem'Hadar ship is shot down. They encounter Jem'Hadar who crashed there earlier, and have taken Nog and Garak hostage in exchange for medical aid for their Vorta overseer."
+380,4,6,3,Sons and Daughters,1997-10-11,"Serving with his recruit son aboard a Klingon vessel, Worf finds his relationship with his son strained. Meanwhile, strained relationships abound on DS9 between Major Kira and Gul Dukat."
+381,4,6,4,Behind the Lines,1997-10-18,"After forming an attack plan on the Dominion, Sisko relinquishes command of the Defiant to Dax after accepting a promotion. On DS9, the resistance faces discovery when Odo links with another changeling."
+382,4,6,5,Favor the Bold,1997-10-25,"Sisko mounts an attack to re-take DS9, while Rom faces charges as an enemy of the Dominion state."
+383,4,6,6,Sacrifice of Angels,1997-11-01,"The Federation attacks DS9 in hopes of keeping the mine field at the wormhole intact, while the Dominion waits entrance to the Alpha Quadrant from the other side."
+384,4,6,7,You Are Cordially Invited,1997-11-08,"Suddenly desiring to wed within the week on DS9, Worf and Jadzia go through their own Klingon rituals: Worf on a four day bachelor party with the male members of the crew & Jadzia deals with her prospective mother-in-law, who totally opposes the idea of ""an alien"" marrying into her Klingon household."
+385,4,6,8,Resurrection,1997-11-15,Major Kira takes a romantic interest in the mirror universe counterpart of her deceased lover Bareil after he transports himself into her universe and onto DS9.
+386,4,6,9,Statistical Probabilities,1997-11-22,A group of genetically engineered humans are brought to Dr. Bashir on DS9 in the hopes of integrating them into wider society.
+387,4,6,10,The Magnificent Ferengi,1997-12-27,"At the request of the Grand Nagus, Quark puts together a mission to rescue Quark's mother, who is in the hands of the Dominion."
+388,4,6,11,Waltz,1998-01-03,"After being attacked by Cardassian forces, Sisko gets stranded with a very psychotic Gul Dukat, who was being transported to his trial. Meanwhile the crew of the Defiant races to rescue survivors."
+389,4,6,12,Who Mourns for Morn?,1998-01-31,A former patron of Quark's bequeaths everything to him.
+390,4,6,13,Far Beyond the Stars,1998-02-07,Captain Sisko has a full sensory vision of himself as an under-appreciated science fiction magazine writer in 1950s America.
+391,4,6,14,One Little Ship,1998-02-14,"A Dominion attack on the Defiant endangers Dax, Bashir and O'Brien aboard the runabout U.S.S. Rubicon as they enter an anomaly that shrinks them to a very minute size. Unfortunately, they were being held stable by the Defiant within a tractor beam, which was discontinued during the attack."
+392,4,6,15,Honor Among Thieves,1998-02-21,Chief O'Brien goes undercover to infiltrate an Orion crime ring.
+393,4,6,16,Change of Heart,1998-02-28,"Worf and Jadzia travel to the badlands to procure some information on the Dominion from a traitorous Cardassian. Bashir wants to engage in a holo-suite spy simulation, but O'Brien prefers to brush up on his tongo game after watching Jadzia lose to Quark."
+394,4,6,17,Wrongs Darker Than Death or Night,1998-03-28,"After receiving some disturbing information from Gul Dukat, Major Kira seeks Sisko's approval as Emissary to travel back in time to find out the truth about her mother."
+395,4,6,18,Inquisition,1998-04-04,"Dr. Bashir's plans to attend a medical conference at a breezy resort are canceled when Starfleet Intelligence boards DS9, suspecting the doctor of treason."
+396,4,6,19,In the Pale Moonlight,1998-04-11,"To save the Federation in a critical scheme, Sisko comes to realize that he must violate its fundamental principles to do so."
+397,4,6,20,His Way,1998-04-18,Odo is schooled in the ways of romance by a holographic programmed lounge singer.
+398,4,6,21,The Reckoning,1998-04-25,"Spiritualists on Bajor summon Captain Sisko to the planet surface, where they show him a stone tablet with some unknown inscriptions. Once on DS9, the inscription reveals an ancient prophecy of coming disasters surrounding the wormhole, Bajor, and DS9, as those around him voice their uneasiness about Sisko being an Emissary for the planet."
+399,4,6,22,Valiant,1998-05-02,"Jake and Nog's runabout come under attack from the Jem'Hadar, and are rescued by the Valiant, a ship manned by Red Squad, an elite group of young Starfleet cadets."
+400,4,6,23,Profit and Lace,1998-05-09,"Quark's mother and the Grand Nagus show up on DS9, announcing a new amendment to the Bill of Opportunities he has instituted on the home planet of Ferenginar, and then follows up with the announcement, that, due to the new amendment, chaos has followed and he has been deposed."
+401,4,6,24,Time's Orphan,1998-05-16,"The Chief's daughter gets caught in a time displacement and when they get her back, she is considerably older."
+402,4,6,25,The Sound of Her Voice,1998-06-06,"As the Defiant races to a shipwrecked officer who is days away, the crew keeps in contact with her. Meanwhile, Jake follows Quark's latest scheme for story research."
+403,4,6,26,Tears of the Prophets,1998-06-13,"When Sisko is picked to head up an attack on the Cardassian homeworld, the Prophets appear to him in a vision, warning him of impending doom if he leaves the station."
+404,4,7,1,Image in the Sand,1998-09-30,"Having returned to Earth a couple of months ago, Sisko waits for the Prophets to instruct him on what to do next. When he receives one, he begins searching for the woman behind the face in the sand in his vision. Meanwhile, back on DS9, Kira deals with a promotion and handling the decisions surrounding her command, and finding herself wishing for the return of Sisko. And Worf deals with the loss of his wife, Jadzia Dax."
+405,4,7,2,Shadows and Symbols,1998-10-07,"Ezri Dax joins Sisko and his family on his quest for the Orb of the Emissary. Colonel Kira mounts a blockade around a Bajoran moon, where the Romulan hospital is - along with thousands of Romulan missles (claimed to be defensive in purpose). Quark joins Bashir & O'Brien as they join Worf, aboard a Klingon warship as they mount a dangerous mission in Jadzia Dax's name in an effort to get her spirit into Sto-vo-kor, the Klingon's heaven."
+406,4,7,3,Afterimage,1998-10-14,"Sisko tries to convince Ezri to stay in Starfleet and serve aboard DS9, as Ezri tries to get to know Jadzia's friends aboard the station, especially Worf. Meanwhile, Garak tries to deal with a severe bout of claustrophobia."
+407,4,7,4,Take Me Out to the Holosuite,1998-10-21,A Vulcan captain challenges Sisko to a game of baseball.
+408,4,7,5,Chrysalis,1998-10-28,"Dr. Bashir attempts to bring one of his genetically engineered friends out of the catatonic state she is in, and when he is successful, he begins to fall for her."
+409,4,7,6,"Treachery, Faith and the Great River",1998-11-04,"A Vorta offers Odo valuable information on the Dominion in exchange for asylum. Meanwhile, Nog tries his Ferengi knowledge as he wheels and deals for a valuable piece of equipment for Chief O'Brien."
+410,4,7,7,Once More unto the Breach,1998-11-11,An aged Kor requests an opportunity to die with honor as a warrior.
+411,4,7,8,The Siege of AR-558,1998-11-18,Capt. Sisko and his away team volunteer to stay with a besieged unit at an isolated outpost.
+412,4,7,9,Covenant,1998-11-25,Kira is kidnapped and taken to Empok Nor by a member of a Pah'Wraith cult and discovers the group leader is Gul Dukat.
+413,4,7,10,It's Only a Paper Moon,1998-12-30,"Severely depressed at his serious war wound, Nog retreats into Vic Fontaine's holosuite program while the singer tries to help him."
+414,4,7,11,Prodigal Daughter,1999-01-06,Ezri travels to her family home in search of Chief O'Brien who has discovered a murdered woman connected with the family and the Orion Syndicate.
+415,4,7,12,The Emperor's New Cloak,1999-02-03,Quark and Rom have to rescue Grand Nagus Zek who's being held captive in the alternate universe.
+416,4,7,13,Field of Fire,1999-02-10,"To find an apparently untraceable murderer, Ezri Dax reluctantly calls up the residual consciousness remnant of her symbiont's past hidden psychopathic murderer host, Joran."
+417,4,7,14,Chimera,1999-02-17,"After searching out and finding Odo, another changeling asks him to leave DS9 with him, even though the rest of the crew aren't convinced the new changeling is not part of the Founders."
+418,4,7,15,Badda-Bing Badda-Bang,1999-02-24,"When a programming glitch won't go away, mobsters take over Vic's and open for business, but the DS9 gang takes it personal when their favorite hangout is no longer their favorite, and they plan to get the new management ousted."
+419,4,7,16,Inter Arma Enim Silent Leges,1999-03-03,"While making plans to attend a medical conference on the Romulan home world, Dr. Bashir is contacted by Sloan of Section 31 and recruited to determine the health of a high-ranking Romulan official. Things turn more desperate, though, when the ranking Starfleet admiral traveling with him, who knows about Section 31's interest in the conference mysteriously suffers a brain aneurysm after Dr. Bashir finds out that Sloan is traveling with the group, as well."
+420,4,7,17,Penumbra,1999-04-07,"When the ship Worf was serving on is attacked in battle and all search efforts are abandoned, Ezri takes a runabout in search of him against Sisko's orders. Meanwhile, Sisko proposes to Kasidy Yates."
+421,4,7,18,'Til Death Do Us Part,1999-04-14,"The Prophets have told Sisko they do not approve of his impending marriage. Having been captured by the Breen, Ezri and Worf still don't know why the Breen would even bother to capture them. Some Cardassians are beginning to think their alliance with the Dominion was a grave mistake. Gul Dukat, disguised as a Bajoran, sets foot on DS9, and continues to unfurl his plan."
+422,4,7,19,Strange Bedfellows,1999-04-21,"Kai Winn gets unknowingly involved with Gul Dukat, surgically altered to resemble a Bajoran, using the name 'Anjohl.' Tensions further escalate between Weyoun and Legate Damar, as the Dominion gather to sign a peace treaty with the Breen, which includes granting the Breen certain Cardassian territories. Having been held captive by the Dominion, Ezri and Worf try to escape from the Cardassian home world."
+423,4,7,20,The Changing Face of Evil,1999-04-28,"After the Breen attack Earth, mixed emotions abound on DS9. Kai Winn reveals her true feelings regarding the Prophets to her spiritual guide, a Bajoran farmer named Anjohl, who is a surgically altered Dukat, and turns her back on them, and convinced by him to embrace the Pah Wraiths. On the home world of Cardassia, Legate Damar mounts a resistance to the Dominion."
+424,4,7,21,When It Rains...,1999-05-05,"Kira gets sent behind Cardassian lines in an effort to train them in resistance fighting. When Dr. Bashir learns of the deadly disease Odo is infected with, he meets with resistance whilst trying to obtain Odo's medical records from Starfleet. Martok gets blindsided by Gowron when he arrives on DS9, announcing he has assumed command of the Klingon fleet."
+425,4,7,22,Tacking into the Wind,1999-05-12,"Odo is affected by the disease threatening to eliminate his race more than he lets on, while Kira has to deal with the Cardassians' dislike of her. Even though General Martok sees Chancellor Gowron's move as part of a political vendetta, he does nothing about it. Worf suspects Gowron's military strategies are meant to humiliate Martok's command abilities, without thought the consequences have for Klingons as a whole. Meanwhile, O'Brien suggests to Bashir he announce he's found a cure to the Changelings' disease to lure someone from Section 31 to DS9."
+426,4,7,23,Extreme Measures,1999-05-19,Dr. Bashir and Chief O'Brien go to some pretty extreme measures to try and track down a cure for Odo.
+427,4,7,24,The Dogs of War,1999-05-26,"Odo begins recovery from the deadly disease which Dr. Bashir tells him had been engineered by Section 31 in order to wipe out the Founders' entire race, A resistance mission goes bad for Kira and Garak, and they end up hiding in the basement of the house which Garak grew up in. They soon hear Legate Damar - who had been on their mission and was hiding with them - has just become a casualty of war. The Grand Nagus has chosen Quark to become his successor, upon his impending retirement on the pleasure planet, Risa."
+428,4,7,25,What You Leave Behind,1999-06-02,"As the Dominion War comes to an end, Dukat goes to the Pah Wraiths to awaken them. Meanwhile the Dominion turn on the rebelling Cardassians, destroying them city by city. Will the Alliance prevail over the Dominion? Will Garak and the Rebellion stop them before the destruction of Cardassia? Will Sisko stop the Pah Wraiths from rising?"
+429,2,1,1,Beyond the Farthest Star,1973-09-08,"While exploring on the outermost rim of the galaxy, the USS Enterprise is pulled into the orbit of a dead star. Trapped there, the crew discovers that there is an ancient derelict pod ship trapped with them as well."
+430,2,1,2,Yesteryear,1973-09-15,Spock must travel to the past to rescue his younger self from danger.
+431,2,1,3,One of Our Planets Is Missing,1973-09-22,"The Enterprise encounters a giant cloud creature that feeds on the energy of the planets that lie in its path. They determine that it is heading for Mantilles, home to a Federation colony governed by former Starfleet officer Bob Wesley (featured in the TOS episode ""The Ultimate Computer)""."
+432,2,1,4,The Lorelei Signal,1973-09-29,"Investigating a sector of space where starships have disappeared every 27 years, the Enterprise finds a race of beautiful women living on the planet Taurus II."
+433,2,1,5,"More Tribbles, More Troubles",1973-10-06,"While the USS Enterprise escorts two robot cargo ships carrying quintotriticale, a new seed grain, to famine-stricken Sherman's Planet, it encounters a Klingon battlecruiser pursuing a Federation scout ship. When the Enterprise rescues the pilot, the Klingons attack with a new energy weapon and demand that the pilot be handed over to them."
+434,2,1,6,The Survivor,1973-10-13,"Patrolling near the Romulan Neutral Zone, the USS Enterprise finds a ship carrying Carter Winston, a Federation citizen and philanthropist who has been missing for five years."
+435,2,1,7,The Infinite Vulcan,1973-10-20,"While visiting the newly discovered planet Phylos, Lieutenant Sulu picks up a walking plant, called a Retlaw, and is poisoned. The alien species that inhabit the planet, who are plantlike beings, approach and save Sulu's life, but kidnap Mr. Spock."
+436,2,1,8,The Magicks of Megas-tu,1973-10-27,"While exploring near the center of the galaxy, the USS Enterprise is caught inside an energy/matter vortex and all her computer systems fail. A being named Lucien appears on the bridge, repairs the ship's systems and takes the crew to explore his planet, Megas-Tu."
+437,2,1,9,Once Upon a Planet,1973-11-03,"The Enterprise crew revisits the ""amusement park"" planet first seen in the Classic Trek episode ""Shore Leave"" hoping for some rest and relaxation."
+438,2,1,10,Mudd's Passion,1973-11-10,"The USS Enterprise receives orders to arrest Federation outlaw Harry Mudd, who is accused of selling fake love crystals. Intercepting Harry on the mining colony of Motherlode, they bring him aboard the Enterprise."
+439,2,1,11,The Terratin Incident,1973-11-17,"While observing a burnt-out supernova, the USS Enterprise picks up a strange message transmitted in a two-hundred-year-old code."
+440,2,1,12,The Time Trap,1973-11-24,"While exploring the Delta Triangle, where many starships have disappeared, the USS Enterprise is attacked by several Klingon vessels. During the battle, they are caught in an ion storm. The Enterprise and one Klingon battlecruiser are drawn into a spacetime vortex and end up in a timeless dimension."
+441,2,1,13,The Ambergris Element,1973-12-01,"While exploring the water planet Argo, Captain Kirk and Mr. Spock are transformed into water breathers by the planet's undersea inhabitants, the Aquans. In order to return to their normal selves, they must enlist the help of the Aquans to capture a giant sur-snake, whose venom holds the antidote."
+442,2,1,14,The Slaver Weapon,1973-12-08,"In the shuttlecraft Copernicus, Mr. Spock, Uhura and Sulu are en route to Starbase 25 to deliver a stasis box—a rare artifact of the Slaver culture when the Kzinti intervene."
+443,2,1,15,The Eye of the Beholder,1974-01-05,"The disappearance of a scientific team lures the USS Enterprise to investigate near Lactra VII. The starship Ariel is located there, abandoned, with its captain having transported to the planet's surface."
+444,2,1,16,The Jihad,1974-01-12,"The USS Enterprise arrives at the Vedala asteroid, where Captain Kirk and Mr. Spock have been summoned to learn about a stolen religious artifact, the ""Soul of the Skorr"", whose theft could ignite a galactic holy war."
+445,2,2,1,The Pirates of Orion,1974-09-07,"Spock contracts a fatal illness, and the cure can only be found with dangerous Orion pirates."
+446,2,2,2,Bem,1974-09-14,The Enterprise crew is taken captive by a race of primitives on a newly discovered planet.
+447,2,2,3,The Practical Joker,1974-09-21,"A strange energy field causes the Enterprise computer to play practical jokes on the crew, but the humor soon turns to danger."
+448,2,2,4,Albatross,1974-09-28,Doctor McCoy is arrested for allegedly causing a deadly plague which once ravaged the planet Dramia.
+449,2,2,5,How Sharper Than a Serpent's Tooth,1974-10-05,A mysterious being threatens to destroy the Enterprise if the crew is unable to solve an ancient puzzle.
+450,2,2,6,The Counter-Clock Incident,1974-10-12,"An unusual spaceship pulls the Enterprise into a ""negative universe"" where time seems to flow backwards."
+451,5,1,1,Caretaker,1995-01-16,"While searching for a missing Maquis ship with a Starfleet spy aboard, USS Voyager is swept away to the Delta Quadrant, more than 70,000 light-years from home, by an incredibly powerful being known as the ""Caretaker""."
+452,5,1,2,Parallax,1995-01-23,"Voyager is trapped in a quantum singularity's event horizon, and Captain Janeway must decide between Lt. Carey and former Maquis B'Elanna Torres to be the new chief engineer."
+453,5,1,3,Time and Again,1995-01-30,"Investigating a planet just devastated by a polaric explosion, Janeway and Paris are engulfed by a subspace fracture and transported in time to before the accident."
+454,5,1,4,Phage,1995-02-06,"An organ-harvesting species known as the Vidiians steal Neelix's lungs, leaving him to die."
+455,5,1,5,The Cloud,1995-02-13,"The crew enter a nebula to collect samples before realizing it is a living organism, but not before injuring it."
+456,5,1,6,Eye of the Needle,1995-02-20,"The crew’s hopes are raised when a wormhole is detected as it may offer the chance of a return to the Alpha Quadrant. As her training as the Doctor’s new assistant continues, Kes is disturbed by the lack of respect that some crew members display towards him."
+457,5,1,7,Ex Post Facto,1995-02-27,"On a mission to the Banean home world, Tom Paris is found guilty of murder. Tuvok investigates and forms a hypothesis regarding what may have actually happened."
+458,5,1,8,Emanations,1995-03-13,"After an Away Team stumbles upon a burial ground, Harry Kim is discovered to be missing, having been transferred to the culture's homeworld."
+459,5,1,9,Prime Factors,1995-03-20,"Voyager encounters aliens from the planet Sikaris, a highly advanced race. They have a device that could potentially send Voyager home, but the Sikarans have a law – similar to the Federation’s Prime Directive - that does not allow them to share such advanced technology."
+460,5,1,10,State of Flux,1995-04-10,Janeway and the other senior officers attempt to flush out a spy who is sending information to the Kazon.
+461,5,1,11,Heroes and Demons,1995-04-24,The holographic doctor must rescue crew members who were turned to light energy in a Holodeck simulation of Beowulf.
+462,5,1,12,Cathexis,1995-05-01,"A shuttlecraft with Chakotay and Tuvok aboard is attacked; Chakotay is left brain-dead, while Tuvok begins acting strangely. An unknown force begins controlling crew members."
+463,5,1,13,Faces,1995-05-08,B'Elanna Torres is split into her human and Klingon halves by the Vidiians.
+464,5,1,14,Jetrel,1995-05-15,"A member of the Haakonians, a race warring with the Talaxians, arrives on Voyager, much to the dismay of Neelix, whose family was killed by a weapon of mass destruction this particular individual devised."
+465,5,1,15,Learning Curve,1995-05-22,Tuvok trains several Maquis members who have not fully integrated with the Voyager crew.
+466,5,2,1,The 37's,1995-08-28,"A group of humans from the 1930s are found in stasis on a seemingly abandoned planet, including the lost Amelia Earhart."
+467,5,2,2,Initiations,1995-09-04,Chakotay encounters a Kazon youth who is on an initiation rite: to earn his name by killing an enemy or be killed in the attempt.
+468,5,2,3,Projections,1995-09-11,"The Doctor becomes delusional after an accident, causing him to believe that he is a flesh-and-blood person and his time on USS Voyager is a holodeck program."
+469,5,2,4,Elogium,1995-09-18,"Space-dwelling life-forms cause Kes to enter the Ocampan fertile phase called Elogium, putting pressure on her relationship with Neelix when she wants to have his child."
+470,5,2,5,Non Sequitur,1995-09-25,Harry Kim wakes up in 24th century San Francisco with no record of him on Voyager.
+471,5,2,6,Twisted,1995-10-02,A region of space distorts the interior of Voyager.
+472,5,2,7,Parturition,1995-10-09,"Neelix and Tom Paris fight over Kes, but are sent on an away mission together."
+473,5,2,8,Persistence of Vision,1995-10-30,The crew experiences hallucinations brought on by an alien that put them into a trance-like state.
+474,5,2,9,Tattoo,1995-11-06,Chakotay encounters non-humans who have the same tattoo on their foreheads that he has.
+475,5,2,10,Cold Fire,1995-11-13,An Ocampan helps Kes with her mental abilities as the crew encounter a being who appears to be the Caretaker's female counterpart.
+476,5,2,11,Maneuvers,1995-11-20,Kazon Nistrim board Voyager and steal a transporter module in an attempt to unite the Kazon sects.
+477,5,2,12,Resistance,1995-11-27,A mission to acquire Telerium goes wrong causing Tuvok and B'Elanna to be captured and believed to be with the resistance.
+478,5,2,13,Prototype,1996-01-15,The crew finds and reactivates a robot's body which was adrift in space only to find themselves in the middle of a war when B'Elanna is abducted.
+479,5,2,14,Alliances,1996-01-22,Janeway attempts to form an alliance with the Kazon to improve Voyager's standing in the Delta Quadrant.
+480,5,2,15,Threshold,1996-01-29,"Tom Paris breaks the transwarp barrier in the Shuttlecraft Cochrane, designed to reach warp 10, but he begins to evolve."
+481,5,2,16,Meld,1996-02-05,"Crewman Lon Suder murders an Engineering crewman for no apparent reason. Tuvok mind melds with him to ascertain his motive, but it causes Tuvok to become aggressive."
+482,5,2,17,Dreadnought,1996-02-12,"A highly advanced Cardassian AI missile that had been reprogrammed by B'Elanna Torres is found in the Delta Quadrant, and its damaged programming could destroy Voyager and a planet."
+483,5,2,18,Death Wish,1996-02-19,The crew encounter a member of the Q Continuum seeking to end his immortal life.
+484,5,2,19,Lifesigns,1996-02-26,The Doctor helps a Phage-ridden Vidiian woman.
+485,5,2,20,Investigations,1996-03-13,Neelix tries to flush out the traitor on board who has been colluding with the Kazon Nistrim.
+486,5,2,21,Deadlock,1996-03-18,"Attempting to evade the Vidiians, a duplicate Voyager is created after it passes through a spatial scission."
+487,5,2,22,Innocence,1996-04-08,Tuvok crash-lands on a moon and finds children who have been abandoned.
+488,5,2,23,The Thaw,1996-04-29,The crew finds aliens mentally connected to a computer that has created a being that feeds on their fear.
+489,5,2,24,Tuvix,1996-05-06,A transporter accident merges Tuvok and Neelix into a new person.
+490,5,2,25,Resolutions,1996-05-13,"Janeway and Chakotay must adapt to life quarantined on a planet after they contract an incurable disease. Meanwhile, the Voyager crew risk their lives to seek out a possible cure from the Vidiians."
+491,5,2,26,"Basics, Part I",1996-05-20,Seska and the Kazon-Nistrim take control of Voyager and maroon its crew on a desolate planet.
+492,5,3,1,"Basics, Part II",1996-09-04,"The crew must learn to survive on the inhospitable planet as the Doctor, Crewman Suder and Paris attempt to regain control of the ship."
+493,5,3,2,Flashback,1996-09-11,"Tuvok experiences brain-damaging flashbacks to his service on the USS Excelsior under Captain Hikaru Sulu. He and the captain attempt to find the reason for the flashbacks, believed to be a suppressed memory, through a joint mindmeld."
+494,5,3,3,The Chute,1996-09-18,"Tom Paris and Harry Kim wrongfully accused, convicted and incarcerated in an unguarded Akritirian prison. Tom gets stabbed trying to protect Kim, leaving him to try to find an escape plan alone. Meanwhile, Voyager is trying to find a way to prove their innocence."
+495,5,3,4,The Swarm,1996-09-25,"Voyager encounters a swarm of ships while trying to take a shortcut through a space belonging to a hostile species, while the Doctor begins to experience memory loss."
+496,5,3,5,False Profits,1996-10-02,"The crew encounters the Delta Quadrant terminus of the Barzan wormhole...and the two Ferengi from the Star Trek: The Next Generation episode ""The Price"" now posing as gods on a nearby planet."
+497,5,3,6,Remember,1996-10-09,"B'Elanna experiences vivid dreams. Which at first glance, transforms from a forbidden love affair to an increasingly dangerous path, leading to an alleged coverup concerning a planet-wide genocide."
+498,5,3,7,Sacred Ground,1996-10-30,"Kes is left comatose after contacting an energy field around a rock, forcing Janeway to embark on a spiritual quest to find a cure."
+499,5,3,8,"Future's End, Part I",1996-11-06,A 29th century timeship causes a time paradox when it accidentally sends itself and Voyager to two different periods in 20th century Earth.
+500,5,3,9,"Future's End, Part II",1996-11-13,Janeway must prevent the destruction of the Solar System by a 20th-century entrepreneur who has acquired the timeship.
+501,5,3,10,Warlord,1996-11-20,Kes is controlled by an alien warlord named Tieran.
+502,5,3,11,The Q and the Grey,1996-11-27,Q visits Voyager with a proposal for Janeway as civil war breaks out in the Q Continuum.
+503,5,3,12,Macrocosm,1996-12-11,"Voyager answers a distress call from a mining colony about a viral outbreak that manages to sneak onto Voyager through the transporter, leaving only Janeway and the Doctor to stop it."
+504,5,3,13,Fair Trade,1997-01-08,Voyager approaches the edge of Neelix's knowledge and a trading station.
+505,5,3,14,Alter Ego,1997-01-15,The crew enjoys a luau on the holodeck and Tuvok discovers an unusual hologram.
+506,5,3,15,Coda,1997-01-29,"Janeway appears to be trapped in a time-loop with different events, but all ending in her death."
+507,5,3,16,Blood Fever,1997-02-05,"Vulcan crewmember Vorik passes on the Pon farr to B'Elanna. Meanwhile, seemingly uninhabited planet Sakari is explored. After ruins are discovered, and a few survivors are found underground by the crew, it becomes obvious that local culture was destroyed by invaders. Remains of one of the invaders are found and identified - they were Borg."
+508,5,3,17,Unity,1997-02-12,"Chakotay answers a call for help on a planet and finds himself in the middle of a shoot-out between two groups of people. Meanwhile, the Voyager crew discovers an abandoned Borg ship."
+509,5,3,18,Darkling,1997-02-19,The Doctor's attempt to graft other personalities into his program causes him to develop an evil alternate personality.
+510,5,3,19,Rise,1997-02-26,Voyager helps a planet with asteroid problems. Tuvok and Neelix crash-land on the planet and attempt to fix a maglev space elevator.
+511,5,3,20,Favorite Son,1997-03-19,Harry Kim is drawn to a planet that is nearly all women.
+512,5,3,21,Before and After,1997-04-09,"Shortly before her death in the future, Kes begins to travel backwards in time, with a portion of events occurring in the Year of Hell."
+513,5,3,22,Real Life,1997-04-23,The Doctor creates a family on the holodeck.
+514,5,3,23,Distant Origin,1997-04-30,A reptilian scientist trying to prove his heretical theories kidnaps Chakotay and draws the entire crew in conflict between his race's doctrine and the startling truth about its origin.
+515,5,3,24,Displaced,1997-05-07,Crew members are replaced one-by-one with aliens from an unknown race.
+516,5,3,25,Worst Case Scenario,1997-05-14,B'Elanna Torres discovers a holodeck program where Chakotay and the Maquis rebel against Janeway.
+517,5,3,26,"Scorpion, Part I",1997-05-21,"Voyager must pass through Borg space, only to discover a new alien race that is even deadlier than the Borg."
+518,5,4,1,"Scorpion, Part II",1997-09-03,Janeway and Tuvok work with the Borg and meet Seven of Nine as they collaborate on developing a weapon against Species 8472 in exchange for safe passage through Borg space.
+519,5,4,2,The Gift,1997-09-10,Kes' mental abilities develop to a point where they endanger Voyager while The Doctor and Janeway slowly help Seven of Nine cope with being severed from the Borg.
+520,5,4,3,Day of Honor,1997-09-17,B'Elanna tries to observe the Klingon Day of Honor after the warp core is lost.
+521,5,4,4,Nemesis,1997-09-24,Chakotay helps fight in an alien war.
+522,5,4,5,Revulsion,1997-10-01,A hologram contacts Voyager and the Doctor is excited to meet another hologram.
+523,5,4,6,The Raven,1997-10-08,Seven of Nine experiences Borg flashbacks as she attempts to become more human.
+524,5,4,7,Scientific Method,1997-10-29,The crew have unexplained illnesses as they are closely observed by unseen intruders.
+525,5,4,8,Year of Hell: Part I,1997-11-05,"Voyager creates a new astrometrics lab, which maps a new course that brings them into contact with a Krenim temporal ship that can erase things from history."
+526,5,4,9,Year of Hell: Part II,1997-11-12,A badly damaged Voyager hides in a nebula as a skeleton crew attempts repairs; meanwhile the Krenim commander proposes a compromise to Chakotay and Tom Paris.
+527,5,4,10,Random Thoughts,1997-11-19,Torres is arrested while visiting a world of telepaths where violent thoughts are a crime.
+528,5,4,11,Concerning Flight,1997-11-26,"Aliens steal several key components of Voyager, which are retrieved with assistance from a holographic Leonardo da Vinci."
+529,5,4,12,Mortal Coil,1997-12-17,"Neelix dies in an attempt to sample proto-matter from a nebula. Seven of Nine helps resuscitate him using Borg nanoprobes, but Neelix, having no memory of an afterlife of any kind, experiences a spiritual crisis."
+530,5,4,13,Waking Moments,1998-01-14,"The crew becomes trapped in a shared nightmare generated by alien technology. Only Chakotay, through his Native American spiritual capabilities, can save them."
+531,5,4,14,Message in a Bottle,1998-01-21,"The Doctor's program is sent to an advanced Starfleet vessel via a vast ancient communications network, but he soon discovers that only he and the ship's own EMH remain to fight against Romulans who have taken over the ship and are attempting to return to Romulan space with it."
+532,5,4,15,Hunters,1998-02-11,Letters from home and Starfleet Command get held up at a Hirogen relay station and Janeway sets course to retrieve it.
+533,5,4,16,Prey,1998-02-18,Voyager rescues a Hirogen survivor who tells them a new kind of prey is on the loose.
+534,5,4,17,Retrospect,1998-02-25,"After experiencing unsettling hallucinations, Seven of Nine is hypnotized by the Doctor whose analysis reveals a trader might have extracted Borg technology from Seven without her consent."
+535,5,4,18,The Killing Game,1998-03-04,"The Hirogen implant devices into the crew making them believe they are characters within the holodecks being used for hunts, one of which is set in France during World War II."
+536,5,4,19,Vis à Vis,1998-04-08,"An alien shuttle with a prototype propulsion system suddenly appears and requires assistance. Paris is restless and volunteers to help the pilot, Steth, repair the shuttle."
+537,5,4,20,The Omega Directive,1998-04-15,"Janeway undertakes the Omega Directive, an order to destroy Omega molecules, even if it means violating the Prime Directive."
+538,5,4,21,Unforgettable,1998-04-22,An alien female from a cloaked ship asks for Chakotay by name and requests asylum on Voyager from her people.
+539,5,4,22,Living Witness,1998-04-29,A Kyrian museum curator 700 years in the future hopes a Voyager relic containing a copy of the Doctor can confirm their version of history.
+540,5,4,23,Demon,1998-05-06,Tom Paris and Harry Kim take a shuttle down to an extremely inhospitable planet to obtain fuel.
+541,5,4,24,One,1998-05-13,Seven of Nine is left alone on Voyager when a nebula's deadly radiation forces the rest of the crew to stay in stasis and the Doctor's holographic program is disrupted.
+542,5,4,25,Hope and Fear,1998-05-20,"Paris and Neelix return from a mission with a passenger named Arturis who knows more than 4,000 languages. He manages to decode a message from Starfleet that could lead to a way home."
+543,5,5,1,Night,1998-10-14,Voyager loses power traversing a dark region of space containing theta radiation.
+544,5,5,2,Drone,1998-10-21,"The Doctor's mobile emitter is damaged while beaming back from an away mission, merging with Seven of Nine's Borg nanoprobes and the DNA of a male Ensign to create a 29th century Borg."
+545,5,5,3,Extreme Risk,1998-10-28,"B'Elanna purposely puts herself into increasingly dangerous situations. Meanwhile, the crew decides to build a new shuttlecraft, the Delta Flyer."
+546,5,5,4,In the Flesh,1998-11-04,"The ship encounters one of the training facilities of Species 8472, for an alien invasion of Starfleet and of Earth."
+547,5,5,5,Once Upon a Time,1998-11-11,Neelix looks after Naomi Wildman when her mother is injured on an away mission.
+548,5,5,6,Timeless,1998-11-18,"Fifteen years in the future, Chakotay and Harry Kim attempt to prevent Voyager from crash-landing on an ice planet."
+549,5,5,7,Infinite Regress,1998-11-25,"When Voyager brings aboard an advanced piece of Borg technology from a salvaged Borg cube, Seven of Nine begins to take on the personalities of the people assimilated by the cube."
+550,5,5,8,Nothing Human,1998-12-02,A wounded alien is brought on board from a stranded vessel and attaches itself to B'Elanna Torres.
+551,5,5,9,Thirty Days,1998-12-09,Tom Paris disregards orders by helping an aquatic world and is demoted to Ensign.
+552,5,5,10,Counterpoint,1998-12-16,"While passing through Devore space, Voyager is routinely searched for telepaths."
+553,5,5,11,Latent Image,1999-01-20,The Doctor finds out that some of his memories have been blocked.
+554,5,5,12,Bride of Chaotica!,1999-01-27,Paris' latest holodeck adventure The Adventures of Captain Proton takes an unexpected turn.
+555,5,5,13,Gravity,1999-02-03,"Tuvok and Paris crash on a planet stuck in a pocket of subspace, where they meet a female named Noss."
+556,5,5,14,Bliss,1999-02-10,A large organism telepathically deceives the Voyager crew into flying into its digestive chamber.
+557,5,5,15,Dark Frontier,1999-02-17,Janeway plans to steal a transwarp coil from a disabled Borg ship to shorten their journey home. Seven of Nine experiences memories of her past just before she and her parents are assimilated and plans to re-join the Borg collective. The Borg Queen tells Seven of Nine that she will leave her individuality intact so the Borg can study her memories and use her to help them assimilate humanity.
+558,5,5,16,The Disease,1999-02-24,Kim finds love when the crew encounters a Varro generational ship that needs assistance repairing its warp drive.
+559,5,5,17,Course: Oblivion,1999-03-03,Lt. Torres and Ensign Paris get married; the crew discover they aren't who they think they are while trying to resolve why subspace radiation is causing them and Voyager to disintegrate.
+560,5,5,18,The Fight,1999-03-24,Chakotay lies in sickbay as he attempts to communicate with aliens through hallucinations.
+561,5,5,19,Think Tank,1999-03-31,Voyager is being chased by the Hazari when a think tank offers assistance.
+562,5,5,20,Juggernaut,1999-04-26,The crew responds to a distress call from Malon escape pods contaminated with radiation.
+563,5,5,21,Someone to Watch Over Me,1999-04-28,Seven of Nine explores dating with some help from the Doctor.
+564,5,5,22,11:59,1999-05-05,"Janeway reminisces about one of her ancestors, Shannon O'Donnell from Indiana."
+565,5,5,23,Relativity,1999-05-12,Captain Braxton recruits Seven of Nine to stop Voyager being sabotaged.
+566,5,5,24,Warhead,1999-05-19,"The crew rescues a device with artificial intelligence embedded in rock, that then proceeds to take control of The Doctor and reveals itself to be a weapon of mass destruction."
+567,5,5,25,"Equinox, Part I",1999-05-26,"Voyager finds another Federation ship, the USS Equinox, under attack from flying nucleogenic lifeforms."
+568,5,6,1,"Equinox, Part II",1999-09-22,The crew of the USS Equinox attempts to elude the USS Voyager in order to exploit the nucleogenic lifeforms in a bid to return home.
+569,5,6,2,Survival Instinct,1999-09-29,"Three Borg from Seven's past appear, and ask to be completely separated from the Collective."
+570,5,6,3,Barge of the Dead,1999-10-06,"B'Elanna's shuttle is hit by an ion storm and she awakens to find herself among Klingons in the Barge of the Dead, on the way to Klingon Hell."
+571,5,6,4,"Tinker, Tenor, Doctor, Spy",1999-10-13,"The Doctor adds daydreaming to his program, imagining himself as the Emergency Command Hologram (ECH) aboard Voyager; but aliens, tapping into his perceptions to observe the crew, prepare an attack when they believe that what they are seeing in the daydreams is real."
+572,5,6,5,Alice,1999-10-20,"Tom Paris becomes obsessed with a salvaged alien shuttlecraft, which appears to have a mind of its own."
+573,5,6,6,Riddles,1999-11-03,"Returning from a diplomatic mission, Tuvok is attacked by a cloaked intruder and suffers neurological damage."
+574,5,6,7,Dragon's Teeth,1999-11-10,"Voyager discovers a network of subspace passageways, but is forced to land on a planet after being attacked."
+575,5,6,8,One Small Step,1999-11-17,Voyager is nearly hit by a mysterious subspace mass and the crew theorize that the debris of an ancient Earth–Mars ship is inside.
+576,5,6,9,The Voyager Conspiracy,1999-11-24,"After assimilating Voyager's data from the past six years, through an enhancement to her Borg implants, Seven of Nine suspects the ship did not arrive in the Delta Quadrant by accident."
+577,5,6,10,Pathfinder,1999-12-01,Barclay gets over-involved with holographic recreations of the Voyager crew in his attempts to contact them. This episode also features Deanna Troi.
+578,5,6,11,Fair Haven,2000-01-12,"The crew enjoys a respite inside a holodeck creation designed by Tom Paris, while Voyager faces the threat of an oncoming storm in space."
+579,5,6,12,Blink of an Eye,2000-01-19,"Voyager is trapped in orbit about a planet with a spacetime differential such that, while its inhabitants live through years, Voyager experiences mere minutes."
+580,5,6,13,Virtuoso,2000-01-26,"Visiting aliens who have never before encountered music become fascinated with the Doctor's Opera singing, and ask him to leave Voyager and join their society."
+581,5,6,14,Memorial,2000-02-02,"Chakotay, Tom Paris, Harry Kim, and Neelix begin to experience horrific flashbacks after an away mission."
+582,5,6,15,Tsunkatse,2000-02-09,"Seven of Nine and Tuvok are kidnapped while on shore leave, and Seven is forced to fight in a gladiatorial contest to the death. (Guest stars include J.G. Hertzler, Jeffrey Combs and Dwayne ""The Rock"" Johnson."
+583,5,6,16,Collective,2000-02-16,"Chakotay, Kim, Paris, and Neelix are taken hostage when the Delta Flyer is captured by Borg children in a derelict Cube."
+584,5,6,17,Spirit Folk,2000-02-23,"Problems arise from running the holographic Irish village of Fair Haven non-stop, when a malfunction leads the holographic characters to become self-aware."
+585,5,6,18,Ashes to Ashes,2000-03-01,"A deceased crew member resurfaces, claiming to have been resurrected by an alien race who have since adopted her."
+586,5,6,19,Child's Play,2000-03-08,"The family of Icheb, one of the Borg children, is found, but he is reluctant to rejoin them. Seven, too, is reluctant for him to leave the ship; and his parents are concealing the real reason for desiring his return."
+587,5,6,20,Good Shepherd,2000-03-15,Three crew members who are under-performing are taken on a mission by Janeway.
+588,5,6,21,Live Fast and Prosper,2000-04-19,Con artists impersonate Janeway and Tuvok.
+589,5,6,22,Muse,2000-04-26,"Torres is stranded on a bronze-age planet after a crash in the Delta Flyer, where she helps a playwright adapt the story of Voyager to the stage. Also, Kim is missing in an escape pod."
+590,5,6,23,Fury,2000-05-03,"A much older and more powerful Kes returns to Voyager, and attempts to travel back in time to change her history."
+591,5,6,24,Life Line,2000-05-10,"The Doctor's creator, Lewis Zimmerman, is dying in the Alpha Quadrant from a disease similar to the Vidiian phage. The Doctor's compressed matrix is transferred to Zimmerman's lab on the Jupiter station, to assist Mr. Barclay and Counselor Troi in attempting to treat the illness."
+592,5,6,25,The Haunting of Deck Twelve,2000-05-17,"As Voyager travels through a nebula, all ship's power is turned off, giving Neelix an opportunity to tell the Borg children a ghost story."
+593,5,6,26,"Unimatrix Zero, Part I",2000-05-24,"Janeway, B'Elanna and Tuvok infiltrate a Borg Cube in an attempt to save Borg drones who are trying to develop individuality."
+594,5,7,1,"Unimatrix Zero, Part II",2000-10-04,"Janeway, B'Elanna and Tuvok are assimilated by the Borg while attempting to save the group of drones who have developed individuality."
+595,5,7,2,Imperfection,2000-10-11,"When her cortical implant malfunctions, Seven of Nine needs a life-saving transplant."
+596,5,7,3,Drive,2000-10-18,"The crew of Voyager enters the Delta Flyer in a sub-warp race, crewed by Tom Paris and B'Elanna Torres, and events conspire to encourage Tom to propose to her."
+597,5,7,4,Repression,2000-10-25,Ex-Maquis crew members are attacked after a data stream arrives from Starfleet.
+598,5,7,5,Critical Care,2000-11-01,"The Doctor's program is stolen and he is forced to work in an alien hospital, where he skillfully manipulates the system to provide ethical medical care."
+599,5,7,6,Inside Man,2000-11-08,"A hologram of Reginald Barclay is sent to Voyager, supposedly to implement a dangerous plan to bring them home; but the hologram has been tampered with by some Ferengi, who are trying to steal valuable Borg nanoprobes from Seven of Nine."
+600,5,7,7,Body and Soul,2000-11-15,"During an emergency on a mission, The Doctor is forced to upload his program into Seven of Nine's Borg implants, allowing him to experience real sensations for the first time."
+601,5,7,8,Nightingale,2000-11-22,Harry Kim takes command of an alien ship that has lost its officers in an attack.
+602,5,7,9,Flesh and Blood,2000-11-29,"Voyager's hologram technology, which Janeway had previously donated to the Hirogen, has been modified to make the holographic ""prey"" more cunning, enabling the hologram characters to rebel against their new masters."
+603,5,7,10,Shattered,2001-01-17,"Voyager is fractured into several time periods by an accident, and only Chakotay is able to move between them, in the process meeting old friends and old foes from the previous six seasons."
+604,5,7,11,Lineage,2001-01-24,"Now married to Tom Paris, B'Elanna Torres discovers she is pregnant. The Doctor tells her to expect a daughter; but B'Elanna's unresolved fear of the childhood traumas, which she suffered as a part-Klingon girl growing up among humans, makes her determined to remove her child's Klingon DNA."
+605,5,7,12,Repentance,2001-01-31,"Prisoners are brought onto Voyager from a damaged alien vessel, and the crew must deliver them to their destination – for execution. Seven's nanoprobes are used to help heal a prisoner."
+606,5,7,13,Prophecy,2001-02-07,"Voyager encounters an ancient Klingon battlecruiser. The Klingons aboard it had set out long ago to find their savior, and they believe it to be Tom and B'Elanna's unborn child."
+607,5,7,14,The Void,2001-02-14,"Voyager is pulled into a void, where the ships that have become trapped attack each other for food and resources."
+608,5,7,15,"Workforce, Part I",2001-02-21,"The Voyager crew is brainwashed into taking new jobs on an industrialized planet that has a severe labor shortage, leaving only Chakotay, Kim and Neelix (who were on an away mission) and the Doctor (who, in the absence of the crew, has become the Emergency Command Hologram) to save them."
+609,5,7,16,"Workforce, Part II",2001-02-28,"Chakotay and Neelix take jobs on the new planet, and try to rescue their amnesiac crewmates – who don't want to leave."
+610,5,7,17,Human Error,2001-03-07,Seven practices her social skills on the holodeck.
+611,5,7,18,Q2,2001-04-11,Q leaves his son (Q2) on Voyager to learn from the crew.
+612,5,7,19,"Author, Author",2001-04-18,"The Doctor writes a holo-novel to be published in the Alpha Quadrant, featuring characters who closely resemble – but do not flatter – the crew."
+613,5,7,20,Friendship One,2001-04-25,The crew is sent on its first mission by Starfleet in nearly seven years: to find a lost probe sent by Earth in the 21st century that has ended up in the Delta Quadrant.
+614,5,7,21,Natural Law,2001-05-02,"While visiting the planet Ledos, Seven and Chakotay crash through an energy barrier. The two are stranded in the jungle with primitive humanoids, who take the pair in and care for Chakotay's injuries. To rejoin Voyager, he and Seven have to disable the energy barrier."
+615,5,7,22,Homestead,2001-05-09,Voyager encounters a Talaxian settlement leaving Neelix with the difficult decision of whether to leave the crew.
+616,5,7,23,Renaissance Man,2001-05-16,The Doctor is forced to help aliens steal Voyager's warp core.
+617,5,7,24,Endgame,2001-05-23,"In the future where it took Voyager 23 years to get home, Admiral Janeway devises a plan to alter history. As the crew enters a final showdown with the Borg, the two Janeways implement a risky plan to take out one of the six Borg Transwarp Hubs in the galaxy and simultaneously cross the transwarp threshold to get home."
+618,6,1,1,"Broken Bow, Part 1",2001-09-26,"In the mid-22nd century, the Earth ship Enterprise is launched under the command of Captain Jonathan Archer. When the crew rescues an alien from a crashed spaceship, Earth gets its first look at the alien's race - the Klingons."
+619,6,1,2,"Broken Bow, Part 2",2001-09-26,"Captain Jonathan Archer, T'Pol and Trip meet Sarin and she explains that Klaang is a courier, bringing an important message from her to the leaders of the Klingons in Kronos about rebels Suliban that intend to promote the Temporal Cold War among the Klingons."
+620,6,1,3,Fight or Flight,2001-10-03,Captain Archer wants to convert curiosity into deeds and decides to enter a ship floating in space. Hoshi has trouble adjusting to life on Enterprise.
+621,6,1,4,Strange New World,2001-10-10,"Archer sends an away team to a habitable, luscious planet for observation. But when a storm occurs, the team begins to experience paranoid delusions."
+622,6,1,5,Unexpected,2001-10-17,"After helping to repair the warp drive on board of a Xyrillian ship, Trip notices a strange bulging on his arm."
+623,6,1,6,Terra Nova,2001-10-24,"Enterprise tries to find out what happened on Terra Nova, the first colonization attempt outside Earth's solar system."
+624,6,1,7,The Andorian Incident,2001-10-31,"Archer, Trip and T'Pol are captured by the Andorians at a Vulcan monastery on P'Jem. They believe that the monastery is being used to spy on Andoria."
+625,6,1,8,Breaking the Ice,2001-11-07,Enterprise discovers a comet which contains the very rare element eisilium. Then unexpectedly a Vulcan ship arrives. Captain Vanik tells they're interested in human behavior.
+626,6,1,9,Civilization,2001-11-14,T'Pol finds unusual neutrino readings on a planet with a preindustrial society.
+627,6,1,10,Fortunate Son,2001-11-21,"Enterprise is sent to help the freighter Fortunate after an attack. However, its first officer, Ryan, is hiding something."
+628,6,1,11,Cold Front,2001-11-28,"Enterprise has a group of aliens watching a stellar phenomenon on board. When the ship is miraculously saved from blowing up, crewman Daniels has an important message for Archer."
+629,6,1,12,Silent Enemy,2002-01-16,"After an attack by a mysterious ship, Archers orders Enterprise's return to Jupiter to install phase cannons; Hoshi makes plans for Malcolm's birthday."
+630,6,1,13,Dear Doctor,2002-01-23,"Phlox is asked to save the Valakians from annihilation by disease. However, he discovers something unusual about the Menk, another humanoid race on the planet."
+631,6,1,14,Sleeping Dogs,2002-01-30,Enterprise tries to rescue a Klingon ship from sinking into a gas giant.
+632,6,1,15,Shadows of P'Jem,2002-02-06,T'Pol is being recalled because of Enterprise's involvement in the destruction of the P'Jem sanctuary. She and Captain Archer are later kidnapped while visiting the planet Coridan.
+633,6,1,16,Shuttlepod One,2002-02-13,"While returning to Enterprise in Shuttlepod One, Trip and Reed see apparent evidence that the ship has been destroyed. With only days of oxygen left, they must find a way to survive long enough for rescue."
+634,6,1,17,Fusion,2002-02-27,"When Enterprise encounters a ship of Vulcan pilgrims, T'Pol is convinced by one of them to perform a Vulcan mind meld."
+635,6,1,18,Rogue Planet,2002-03-20,"Lieutenant Reed discovers a rogue planet, which has broken out of orbit and therefore is devoid of any light. Life is still possible in some places because heat is bubbling up from under the surface, but T'Pol doesn't detect any humanoid life."
+636,6,1,19,Acquisition,2002-03-27,Almost the entire crew is left unconscious when four Ferengi pirates raid Enterprise. A still conscious Trip is the only one who can get rid of them.
+637,6,1,20,Oasis,2002-04-03,The crew of Enterprise searches for a seemingly abandoned ship on a desert planet.
+638,6,1,21,Detained,2002-04-24,Archer and Mayweather are captured by the Tandarans and placed in a Suliban internment camp.
+639,6,1,22,Vox Sola,2002-05-01,"A fibrous, web-like alien creature comes aboard the ship and several of the crew becomes entangled in it including Archer and Trip, and it seems Hoshi is the only one who can try to communicate with the creature."
+640,6,1,23,Fallen Hero,2002-05-08,"Enterprise is planning a trip to the relaxation planet Risa, when it gets an urgent request from the Vulcan High Command. They must pick up ambassador V'Lar who has fallen in disgrace."
+641,6,1,24,Desert Crossing,2002-05-08,"Enterprise is for the second time on its way to Risa when yet again another urgent matter comes up: a distress call. It comes from a small vessel. The owner, Zobral, is extremely happy with the help from Enterprise and invites Captain Archer to his home world for a good meal and a game of Geskana."
+642,6,1,25,Two Days and Two Nights,2002-05-15,The members of the Enterprise crew are faced with various misadventures and challenges while taking a two day break from their duties on the planet of Risa.
+643,6,1,26,"Shockwave, Part I",2002-05-22,Enterprise discovers a mining colony of the Paraagans. The crew gets an invitation for a meeting on the surface and a shuttle pod tries to break through the atmosphere. All of a sudden just under the shuttle a giant explosion begins and scorches the earth beneath. All 3600 colonists are reported dead.
+644,6,2,1,"Shockwave, Part II",2002-09-18,Captain Archer and temporal agent Daniels have been stranded in the 31st century. In a library they investigate the damage to the time line and try to find way a to get Archer back in his own century.
+645,6,2,2,Carbon Creek,2002-09-25,"On the first anniversary of her assignment to Enterprise, T'Pol tells Archer and Trip about the first contact between humans and Vulcans, which involves three Vulcans becoming stranded in the town of Carbon Creek, Pennsylvania in 1957."
+646,6,2,3,Minefield,2002-10-02,The safety of Enterprise rests on Reed's shoulders when the ship becomes trapped in a Romulan minefield and Romulan ships are closing in on them.
+647,6,2,4,Dead Stop,2002-10-09,"Enterprise seeks repairs from their encounters with the Romulans, where they stop at a desolate but idyllic repair station. But all is not what it seems when Mayweather is suddenly found dead."
+648,6,2,5,A Night in Sickbay,2002-10-16,"After previously offending the Kreetassans, Enterprise attempts to make a better second impression, only to upset the alien race once again."
+649,6,2,6,Marauders,2002-10-30,Enterprise visits a colony with a deuterium trading post. But the people seem to be pretty unwilling to trade. Are they hiding something?
+650,6,2,7,The Seventh,2002-11-06,T'Pol asks Captain Archer to join her on a mission to capture a Vulcan fugitive that escaped her years ago.
+651,6,2,8,The Communicator,2002-11-13,"Upon returning from covertly observing a pre-warp culture, Lieutenant Reed realizes he lost his communicator somewhere on the planet. Archer and Reed return to recover the lost technology, only to find the natives found it first. Captured and interrogated, the crewmen find themselves doing even more damage to the culture, who have scanned the prisoners and know them to be of another race."
+652,6,2,9,Singularity,2002-11-20,T'Pol must save the ship after the crew becomes obsessed with trivialities during the approach to a black hole.
+653,6,2,10,Vanishing Point,2002-11-27,"After Hoshi uses the transporter to avoid running into a storm, she starts to feel very strange."
+654,6,2,11,Precious Cargo,2002-12-11,"While Trip is repairing a stasis pod at a Retellian cargo ship and the woman inside, heir apparent to the throne of Krios, wakes up, the ship makes a hasty departure. Trip must make a plan to escape."
+655,6,2,12,The Catwalk,2002-12-18,"After receiving a warning about a radioactive storm approaching Enterprise, the crew is forced to take shelter in the ship's catwalk."
+656,6,2,13,Dawn,2003-01-08,Trip's shuttlepod is shot down by a hostile race and is forced to land on a deserted moon. There he must team up with the alien who shot him down in order to find a way back to Enterprise.
+657,6,2,14,Stigma,2003-02-05,"T'Pol is diagnosed with a possibly fatal neurological disease as a result of a mind meld. Meanwhile, one of Phlox's wives visits Enterprise and becomes very interested in Trip."
+658,6,2,15,Cease Fire,2003-02-12,Captain Archer is asked to negotiate between the Andorians and Vulcans who are fighting over a small planet.
+659,6,2,16,Future Tense,2003-02-19,Enterprise discovers a pod with the body of a human that seems to be wanted by both Sulibans and Tholians.
+660,6,2,17,Canamar,2003-02-26,"Archer and Trip are accused of smuggling and sent to the penal colony Canamar. While Enterprise manages to negotiate their release, a mutiny breaks out on the prison ship."
+661,6,2,18,The Crossing,2003-04-02,Enterprise is held captive by non-corporeal beings who claim to be explorers.
+662,6,2,19,Judgment,2003-04-09,"After Enterprise lends aid to a group of accused rebels, Captain Archer faces a tribunal and charges of conspiring against the Klingon Empire."
+663,6,2,20,Horizon,2003-04-16,"Mayweather temporarily leaves Enterprise to visit the cargo ship Horizon, where he was born and raised. Meanwhile, the Enterprise crew observes an unusual planetary event."
+664,6,2,21,The Breach,2003-04-23,"At Dr. Phlox's request, Enterprise attempts to retrieve 3 Denobulan scientists from the planet Xantoras, where the Government has ordered all off-worlders to evacuate within 3 days. Tucker, Reed, and Mayweather navigate a series of labyrinthine underground caves in search of the scientists."
+665,6,2,22,Cogenitor,2003-04-30,"Enterprise encounters a hyper-giant star. While there, they make first contact with the Vissians, a technologically sophisticated race with three genders. While making quick friends, and eagerly learning about the advanced technology, Trip gets curious about the Vissians third gender, known as the Cogenitor, who is crucial in the Vissian reproductive process."
+666,6,2,23,Regeneration,2003-05-07,"An Arctic research team makes a startling find: cybernetic creatures - Borg - buried in the ice. When the revived aliens seize control of a spacecraft, it's up to Archer to keep them from contacting the Collective and threatening Earth."
+667,6,2,24,First Flight,2003-05-14,"After his close friend and colleague A.G. Robinson is killed in a mountain climbing accident, Captain Archer tells T'Pol about the Warp 2 test flight almost ten years earlier."
+668,6,2,25,Bounty,2003-05-14,"After exploring an uninhabited planet, Captain Archer is taken prisoner by a Tellarite bounty hunter who was hired by the Klingons to return Archer to Qo'noS."
+669,6,2,26,The Expanse,2003-05-21,"An alien probe launches a devastating attack on Earth. Archer, still being hunted by the Klingons, brings the Enterprise back home to investigate."
+670,6,3,1,The Xindi,2003-09-10,"Enterprise has been in the Delphic Expanse for six weeks and have yet to get any intel about the Xindi. Strange anomalies affect the ship, sending cargo flying violently through the bays, pockets of atmosphere losing gravity and other incidents defying the known laws of physics."
+671,6,3,2,Anomaly,2003-09-17,"After an attack by Osaarian pirates, Enterprise follows them to a mysterious sphere."
+672,6,3,3,Extinction,2003-09-24,"Archer, Reed and Sato are transformed into aliens while visiting a planet."
+673,6,3,4,Rajiin,2003-10-01,"Enterprise helps an alien woman, Rajiin, seeking to escape her life as a sex slave. Once on board she uses her alien abilities to gather biometric data about humans and is recaptured by her employers, the Xindi council."
+674,6,3,5,Impulse,2003-10-08,"Enterprise answers a distress signal from a stranded Vulcan ship, only when arriving they find the ship completely desolate, wrecked - and filled with Vulcan zombies."
+675,6,3,6,Exile,2003-10-15,"Hoshi Sato is contacted by a 400-year-old telepathic alien exiled on planet in the Expanse, shunned by his society because of his abilities. The alien offers to use his powers to help Enterprise find the Xindi and the weapon they are building, but only if Hoshi will stay with him while he works."
+676,6,3,7,The Shipment,2003-10-29,"Enterprise follows a lead and discovers a Xindi lab that refines Kemocite, the key ingredient in the weapon being built to destroy Earth. An away team of Archer, Reed and Hayes confront the lead researcher, Gralik Durr, who was employed by Degra to refine the Kemocite but was never told what it would be used for."
+677,6,3,8,Twilight,2003-11-05,"His memory crippled, Archer awakens years in the future, after the Xindi have reduced Earth to a cinder and the remnants of humanity have settled on a distant planet. Now, Archer learns that he may be the key to undoing this tragedy."
+678,6,3,9,North Star,2003-11-12,Enterprise investigates a previously unknown colony of humans who are living in the fashion of the American Old West. They are oppressing an alien race called the Skagarans.
+679,6,3,10,Similitude,2003-11-19,Archer decides to make a fast-growing clone of Trip to help save his life while Enterprise is stranded in a dangerous field with nucleonic particles.
+680,6,3,11,Carpenter Street,2003-11-26,Archer and T'Pol travel back in time to Detroit in 2004 to stop three Xindi-Reptilians from constructing a bioweapon.
+681,6,3,12,Chosen Realm,2004-01-14,Enterprise is taken over by religious zealots who want to use the ship in a war against heretics.
+682,6,3,13,Proving Ground,2004-01-21,Enterprise has found the location of the testing site of the Xindi weapon and gets some rather unexpected help.
+683,6,3,14,Stratagem,2004-02-04,"Archer and the Xindi Degra are in a shuttle. With Degra suffering from memory loss, Archer tells him they escaped together from a prison and that the Insectoids took power after destroying Earth."
+684,6,3,15,Harbinger,2004-02-11,"With Reed and Hayes fighting over a training program and Trip seemingly making T'Pol jealous, Enterprise discovers a dying alien in a pod with technology similar to the Spheres."
+685,6,3,16,Doctor's Orders,2004-02-18,"While in command of Enterprise because the entire crew is in a coma, Dr. Phlox starts hearing some strange sounds."
+686,6,3,17,Hatchery,2004-02-25,Captain Archer orders the crew of Enterprise to save a Xindi-Insectoid hatchery.
+687,6,3,18,Azati Prime,2004-03-03,Archer decides he should pilot a kamikaze shuttle to destroy the Xindi weapon. Temporal agent Daniels urges him to reconsider.
+688,6,3,19,Damage,2004-04-21,"Captain Archer has been returned to Enterprise by the Xindi council awaiting a hearing. But after a heavy attack by the Reptilians, Enterprise is stranded without a functional warp drive. They meet another ship in trouble because of space anomalies. The ship's captain isn't willing to trade in their warp coil and Archer must make a tough decision. Meanwhile T'Pol is having some strange sensations and can't control her emotions."
+689,6,3,20,The Forgotten,2004-04-28,"As the crew continues to repair the ship and mourn the dead, Archer works to create trust and form a partnership with members of the Xindi council."
+690,6,3,21,E²,2004-05-05,"Trying to pass through a subspace corridor, Enterprise is stopped by a version of itself from the future."
+691,6,3,22,The Council,2004-05-12,"Enterprise has arrived at the location of the Xindi Council and with the help of Degra, Archer can make his plea in front of the five races of Xindi. Archer needs to prove that the Sphere Builders have been telling lies. While the Primates and Arboreals are already aware of the truth, convincing the other three races will not be easy."
+692,6,3,23,Countdown,2004-05-19,"While the Reptilians force Hoshi to decipher a launch code, the Primates, Arboreals and Archer think of a way to stop the Xindi weapon."
+693,6,3,24,Zero Hour,2004-05-26,"Archer takes Degra's ship to try to prevent Earth from being destroyed and gets some unexpected help. Enterprise tries to destroy Sphere 41, but the Sphere Builders know about the plan."
+694,6,4,1,Storm Front,2004-10-08,"Following the destruction of the Xindi weapon, the Enterprise crew discovers that they have been sent back in time to 1944. However, history has been altered, leaving Nazi Germany in control of a large portion of the eastern United States."
+695,6,4,2,"Storm Front, Part II",2004-10-15,"After Silik attacks Trip, Vosk wants to make a deal with Archer: supplies of the ship for the completion of his time machine in return for a trip to the 22nd Century."
+696,6,4,3,Home,2004-10-22,"The crew take some time off. Archer meets an old friend, Captain Erika Hernandez. T'Pol takes Trip to Vulcan, with a surprise waiting. Phlox finds out Earth has become xenophobic."
+697,6,4,4,Borderland,2004-10-29,"After a Klingon ship is attacked, it's discovered the imprisoned Dr. Soong's genetically enhanced humans are responsible. Archer takes him to prevent a war."
+698,6,4,5,Cold Station 12,2004-11-05,"The Augments are on their way to Cold Station 12, where Augments embryos are kept."
+699,6,4,6,The Augments,2004-11-12,"The Augments have yet again escaped. While Dr. Soong wants to hide the embryos, Malik has an entirely different and way more cruel plan."
+700,6,4,7,The Forge,2004-11-19,"After a bombing destroyed the Earth embassy on Vulcan, a group known as the Syrrannites are suspected. T'Pol receives a map from her Syrrannite mother, leading into a dangerous desert, the Forge."
+701,6,4,8,Awakening,2004-11-26,"T'Pol and Archer confront the Syrrannites and meet T'Pau who denies the embassy bombing. Archer, who has Surak's essence, is asked to help. V'Las threatens Enterprise to make sure an attack on the Syrrannites isn't witnessed."
+702,6,4,9,Kir'Shara,2004-12-03,"While Enterprise travels to Andoria to warn them of the attack, Archer tries to bring the Kir'Shara to the High Command."
+703,6,4,10,Daedalus,2005-01-14,"Dr. Emory Erickson comes aboard to supposedly conduct tests for subquantum transportation. However, he seems to have a different agenda."
+704,6,4,11,Observer Effect,2005-01-21,Noncorporeal aliens inhabit the bodies of Enterprise crew members to study how the crew reacts to a lethal virus infection that has afflicted Trip and Hoshi.
+705,6,4,12,Babel One,2005-01-28,"Enterprise escorts Tellarites to peace talks with Andorians. While transporting they rescue Andorians and say the Tellarites attacked them. Enterprise is soon attacked by an Andorian ship, and Archer must prove who is responsible."
+706,6,4,13,United,2005-02-04,"Captain Archer must convince Vulcans, Tellarites and Andorians to unite to find the Romulan ship."
+707,6,4,14,The Aenar,2005-02-11,"Enterprise finds out the marauder was piloted telepathically by an Aenar, a subspecies from Andoria."
+708,6,4,15,Affliction,2005-02-18,"While Enterprise is visiting Earth, Phlox is abducted by the Klingons and forced to research a cure for a virus destined to wipe out the race. Reed is tapped by a secret agency and ordered to betray Archer. Trip transfers to the Columbia."
+709,6,4,16,Divergence,2005-02-25,"While Enterprise tries to bring Trip on board to reverse the malicious Klingon modifications, Phlox and Antaak find a cure for the virus that will not please General K'Vagh."
+710,6,4,17,Bound,2005-04-15,The men of Enterprise fall under the seductive control of three Orion women. Trip is the only male member of the crew not to succumb to the women.
+711,6,4,18,"In a Mirror, Darkly",2005-04-22,"Set in the dark and oppressive Mirror Universe, Commander Archer leads a mutiny in a bold attempt to seize control of an advanced starship - a vessel from the future that may be the key to saving the Terran Empire."
+712,6,4,19,"In a Mirror, Darkly, Part II",2005-04-29,"The Mirror Universe saga concludes as Archer declares himself captain of a formidable starship from the future, while his alien crew launch a rebellion in a desperate bid to keep him from achieving ultimate power."
+713,6,4,20,Demons,2005-05-06,"While attending a conference on a proposed interplanetary alliance, Trip and T'Pol find out from a dying woman that they have a baby. Investigation shows the woman was a member of the xenophobic organization Terra Prime."
+714,6,4,21,Terra Prime,2005-05-13,"Paxton threatens to destroy Starfleet Headquarters if all aliens don't leave Earth. Enterprise must shut down the verteron array on Mars, but it is extremely well defended."
+715,6,4,22,These Are the Voyages...,2005-05-13,"In 2370, Commander William T. Riker is trying to clear his mind and relives the last mission of the first Enterprise on the holodeck."
+716,7,1,1,The Vulcan Hello,2017-09-24,"While patrolling Federation space, the U.S.S. Shenzhou encounters an object of unknown origin, putting First Officer Michael Burnham to her greatest test yet."
+717,7,1,2,Battle at the Binary Stars,2017-09-24,"Escaping from the brig while the ship is under attack, Burnham joins the captain in an audacious plan to end a battle rapidly escalating into war."
+718,7,1,3,Context Is for Kings,2017-10-01,"Burnham finds herself aboard the U.S.S. Discovery, where she quickly realizes things are not as they seem, including the mysterious Captain Gabriel Lorca."
+719,7,1,4,The Butcher's Knife Cares Not for the Lamb's Cry,2017-10-08,"With tensions and stakes high as Starfleet continues in their efforts to end the war with Klingons, Burnham begins to settle in to her new position aboard the U.S.S. Discovery."
+720,7,1,5,Choose Your Pain,2017-10-15,"While on a mission, Lorca is captured by the Klingons and unexpectedly finds himself in the company of prisoner of war Starfleet Lieutenant Ash Tyler and notorious criminal Harry Mudd."
+721,7,1,6,Lethe,2017-10-22,"The USS Discovery crew is intrigued by new addition, Lt. Ash Tyler. Sarek seeks Burnham's help, rekindling memories from her past. Admiral Cornwell questions Lorca's tactics."
+722,7,1,7,Magic to Make the Sanest Man Go Mad,2017-10-29,"As the U.S.S. Discovery crew attempts to let loose at a party, an unwelcome visitor comes aboard bringing about a problematic and twisted sequence of events."
+723,7,1,8,"Si Vis Pacem, Para Bellum",2017-11-05,The U.S.S. Discovery is tasked with a high priority mission to the planet Pahvo and learn the science behind the Klingons' cloaking technology.
+724,7,1,9,Into the Forest I Go,2017-11-12,"Bypassing Starfleet's orders, Lorca uses the USS Discovery crew's ultimate asset, the ship itself, in an effort to end the war with the Klingons once and for all."
+725,7,1,10,Despite Yourself,2018-01-07,"While in unfamiliar territory, the U.S.S. Discovery crew is forced to get creative in their next efforts to survive opposing and unprecedented forces and return home."
+726,7,1,11,The Wolf Inside,2018-01-14,"As the crew continues their guise, Burnham undergoes a merciless mission in hopes of helping the U.S.S. Discovery return home. Tilly works on restoring Stamets' neurofunction."
+727,7,1,12,Vaulting Ambition,2018-01-21,"Burnham heads to the ISS Charon with a special ""gift"" for the Emperor. With the help of an unexpected source, Stamets gains clarity while trapped inside the mycelial network. Saru asks for L'Rell's help."
+728,7,1,13,What's Past Is Prologue,2018-01-28,"Lorca plans to move forward with a coup against the Emperor, propelling Burnham to make a quick decision to save not only herself, but the U.S.S. Discovery."
+729,7,1,14,"The War Without, The War Within",2018-02-04,"Burnham and the crew are faced with the harsh reality of the war during their absence. In order to move forward, Starfleet must use unconventional tactics and sources to take their next action against the Klingons."
+730,7,1,15,Will You Take My Hand?,2018-02-11,"With Georgiou at the helm of the plan to end the Klingon war once and for all, the USS Discovery crew struggles to fathom and tolerate her hostile tactics. Memories of past hardships are rekindled within Burnham."
+731,7,2,1,Brother,2019-01-17,The crew of the U.S.S. Discovery joins forces with Captain Pike to unravel the mystery of seven mysterious red signals that have appeared across the universe.
+732,7,2,2,New Eden,2019-01-24,"A new signal brings the Discovery to a distant planet, Terralysium, that is inhabited by the descendants of human survivors of World War III, which was fought on Earth 200 years earlier."
+733,7,2,3,Point of Light,2019-01-31,"A surprise visitor to the U.S.S. Discovery brings shocking news about Spock and dredges up past regrets for Burnham. Following the asteroid incident, Tilly struggles to keep a grip on her reality. L'Rell's authority on Qo'noS is threatened."
+734,7,2,4,An Obol for Charon,2019-02-07,"A mysterious sphere threatens the U.S.S. Discovery even as May, in her original form, implements a plan that puts Tilly's life in danger. Saru and Burnham's bond grows when Saru is forced to acknowledge a deeply unsettling Kelpien truth. Pike receives new intel on Spock from a loyal friend."
+735,7,2,5,Saints of Imperfection,2019-02-14,"Burnham and the crew navigate a dangerous alien landscape in a race against time to save Tilly's life, but Stamets is not at all prepared for what they find in the process. Section 31 is assigned to help track down Spock, much to Pike's dismay."
+736,7,2,6,The Sound of Thunder,2019-02-21,"When a new signal appears over Saru's home planet, Burnham, Saru and the crew embark on a perilous mission that puts Saru in danger and raises questions about the Red Angel's intentions. Hugh struggles to come to terms with his new reality."
+737,7,2,7,Light and Shadows,2019-02-28,"Burnham goes to Vulcan in search of Spock, where she unearths surprising family secrets. In researching what is left of the Red Angel's signal over Kaminar, Pike and Tyler end up in battle with time itself. Georgiou has a few tricks up her sleeve for Leland and Section 31."
+738,7,2,8,If Memory Serves,2019-03-07,"Spock and Burnham head to Talos IV, where the process of healing Spock forces the siblings to confront their troubled past. Stamets desperately tries to reconnect with an increasingly disconnected Hugh, while Tyler struggles to shed the crew's suspicions of him due to his past as Voq."
+739,7,2,9,Project Daedalus,2019-03-14,"The Discovery crew infiltrates Section 31's headquarters and suspicions arise that the crew may have a traitor in their midst. Meanwhile, Burnham tries to help Spock, but her efforts don't go as planned."
+740,7,2,10,The Red Angel,2019-03-21,"Burnham is stunned when she learns her ties to Section 31 run deeper than she ever fathomed. Armed with the identity of the Red Angel, the U.S.S. Discovery goes to work on its most critical mission to date."
+741,7,2,11,Perpetual Infinity,2019-03-28,"Burnham receives the reunion she's been longing for, but it doesn't go quite as she imagined. Georgiou and Tyler sense a disturbing change in Leland."
+742,7,2,12,Through the Valley of Shadows,2019-04-04,"A fourth signal leads the U.S.S. Discovery to an insular world, where Pike is forced to make a life-changing choice. Burnham and Spock investigate a Section 31 ship gone rogue, leading to a discovery with catastrophic consequences."
+743,7,2,13,Such Sweet Sorrow,2019-04-11,"When the U.S.S. Discovery's crucial mission does not go according to plan, Burnham realizes what must ultimately be done. The crew prepares for the battle of a lifetime as Leland's Control ships get closer."
+744,7,2,14,"Such Sweet Sorrow, Part 2",2019-04-18,"The U.S.S. Discovery battles against Control in a fight not only for their lives but for the future, with a little help from some unexpected friends. Spock and Burnham discern vital new connections between the red signals while Burnham faces one of life's harshest truths: the right decisions are often the hardest to make."
+745,7,3,1,"That Hope Is You, Part 1",2020-10-15,"Arriving 930 years in the future, Burnham navigates a galaxy she no longer recognizes while searching for the rest of the U.S.S. Discovery crew."
+746,7,3,2,Far from Home,2020-10-22,"After the U.S.S. Discovery crash-lands on a strange planet, the crew finds themselves racing against time to repair their ship. Meanwhile, Saru and Tilly embark on a perilous first-contact mission in hopes of finding Burnham."
+747,7,3,3,People of Earth,2020-10-29,"Finally reunited, Burnham and the U.S.S. Discovery crew journey to Earth, eager to learn what happened to the Federation in their absence."
+748,7,3,4,Forget Me Not,2020-11-05,Burnham and Adira visit the Trill homeworld while Saru's efforts on the Discovery to help the crew reconnect yield surprises.
+749,7,3,5,Die Trying,2020-11-12,"After reuniting with what remains of Starfleet and the Federation, the U.S.S. Discovery and its crew must prove that a 930 year old crew and starship are exactly what this new future needs."
+750,7,3,6,Scavengers,2020-11-19,"After receiving a message from Book, Burnham and Georgiou embark on a rogue mission to find him, leaving Saru to pick up the pieces with Admiral Vance. Meanwhile, Stamets forms an unexpected bond with Adira."
+751,7,3,7,Unification III,2020-11-26,"While grappling with the fallout of her recent actions, and what her future might hold, Burnham agrees to represent the Federation in an intense debate about the release of politically sensitive - but highly valuable - Burn data."
+752,7,3,8,The Sanctuary,2020-12-03,"The U.S.S. Discovery crew travel to Book's home planet to help rescue it from Osyraa, the formidable leader of the Emerald Chain; Stamets and Adira continue their search for valuable information on the origin of the Burn."
+753,7,3,9,"Terra Firma, Part 1",2020-12-10,The U.S.S. Discovery crew journey to a mysterious planet in hopes of finding a cure for Georgiou's deteriorating condition. Stamets and Adira make a stunning breakthrough with the newly acquired Burn data.
+754,7,3,10,"Terra Firma, Part 2",2020-12-17,"Georgiou uncovers the true depths of the plot against her, leading her to a revelation about how deeply her time on the U.S.S. Discovery truly changed her."
+755,7,3,11,Su'Kal,2020-12-24,"Discovery ventures to the Verubin Nebula, where Burnham, Saru, and Culber make a shocking realization about the origin of the Burn as the rest of the crew faces an unexpected threat."
+756,7,3,12,There Is a Tide...,2020-12-31,"After capturing the U.S.S. Discovery, Osyraa seeks a meeting with Admiral Vance while Burnham and the crew must overcome unimaginable odds as they attempt to regain command of their ship."
+757,7,3,13,"That Hope Is You, Part 2",2021-01-07,"As the Emerald Chain tightens its grip and the mystery of the Burn is finally solved, Burnham and the crew have one last chance to save themselves - and the Federation."
+758,7,4,1,Kobayashi Maru,2021-11-18,"After months spent reconnecting the Federation with distant worlds, Captain Michael Burnham and the crew of the U.S.S. Discovery are sent to assist a damaged space station."
+759,7,4,2,Anomaly,2021-11-25,"Saru returns to help the U.S.S. Discovery uncover the mystery of an unusually destructive new force; as Burnham leads the crew, she must also find a way to help Book cope with an unimaginable loss."
+760,7,4,3,Choose to Live,2021-12-02,Burnham and Tilly hunt the killer of a Starfleet officer as Stamets and the science team race against the clock to prevent the anomaly from killing anyone else.
+761,7,4,4,All Is Possible,2021-12-09,"Tilly and Adira lead a team of Starfleet Academy cadets on a training mission that takes a dangerous turn. Meanwhile, Burnham is pulled into tense negotiations on Ni'Var."
+762,7,4,5,The Examples,2021-12-16,Burnham and Book race to evacuate a group of stranded colonists in the anomaly's path as one of the Federation's brightest scientists comes aboard the U.S.S. Discovery to do high-stakes research with Saru and Stamets.
+763,7,4,6,Stormy Weather,2021-12-23,"Seeking answers, the U.S.S. Discovery ventures into a subspace rift created by the Dark Matter Anomaly. Meanwhile, Book faces a strange visitor from his past."
+764,7,4,7,...But to Connect,2021-12-30,Tensions rise as representatives from across the galaxy gather to confront the threat of the Dark Matter Anomaly. Zora's new sentience raises difficult questions.
+765,7,4,8,All In,2022-02-10,"Following a hunch, Captain Burnham tracks Book to an old haunt from their courier days and gets drawn into a high-stakes competition for a powerful weapon."
+766,7,4,9,Rubicon,2022-02-17,Captain Burnham and the U.S.S. Discovery race to stop Book and Ruon Tarka from launching a rogue plan that could inadvertently endanger the galaxy.
+767,7,4,10,The Galactic Barrier,2022-02-24,"Captain Burnham and her crew must go where few have gone before: beyond the Galactic Barrier. Meanwhile, Book learns the truth of what drives Ruon Tarka."
+768,7,4,11,Rosetta,2022-03-03,"While Captain Burnham leads an away mission to a planet that was once home to the aliens responsible for the DMA, Book and Tarka secretly infiltrate the U.S.S. Discovery."
+769,7,4,12,Species Ten-C,2022-03-10,"As the DMA approaches Earth and Ni'Var, Captain Burnham and the crew of the U.S.S. Discovery attempt to make First Contact with the powerful species responsible before it's too late."
+770,7,4,13,Coming Home,2022-03-17,"As the DMA approaches Earth and Ni'Var, and with evacuations underway, Burnham and the team aboard the U.S.S. Discovery must find a way to communicate and connect with a species far different from their own before time runs out."
+771,7,5,1,Red Directive,2024-04-04,"Captain Burnham and U.S.S. Discovery are sent to retrieve a mysterious artifact hidden inside a 800-year-old Romulan vessel - but find that they're not the only ones on the hunt. Meanwhile, Saru is offered the position of a lifetime."
+772,7,5,2,Under the Twin Moons,2024-04-04,"On Saru's last mission as Captain Burnham's Number One, the team ventures to a seemingly abandoned planet to hunt for what might be the greatest treasure in the galaxy."
+773,7,5,3,Jinaal,2024-04-11,"On Trill, Captain Burnham, Book, and Culber must pass a dangerous test to prove themselves worthy of the next clue. Adira reconnects with Gray and Saru's first day as ambassador is complicated by his engagement to T'Rina."
+774,7,5,4,Face the Strange,2024-04-18,"As the race between Discovery and the bounty hunters L'ak and Moll intensifies, an unexpected weapon forces Burnham and Rayner to work past their differences to save the rest of the crew."
+775,7,5,5,Mirrors,2024-04-25,"Captain Burnham and Book journey into extradimensional space in search of the next clue to the location of the Progenitors' power, while Rayner navigates his first mission in command of the U. S. S. Discovery and Culber opens up to Tilly."
+776,7,5,6,Whistlespeak,2024-05-02,Captain Burnham must consider breaking the Prime Directive when a local tradition in a pre-warp society threatens Tilly's life. Culber tries to connect with Stamets and Adira steps up when Rayner assigns them a position on the bridge.
+777,7,5,7,Erigah,2024-05-09,"With Moll and L'ak in custody, the Federation is pulled into a diplomatic and ethical firestorm when the Breen demand they be handed over. Meanwhile, Book looks for ways to help as Tilly, Adira and Reno work to decipher the latest clue."
+778,7,5,8,Labyrinths,2024-05-16,"When Burnham is trapped within a ""mindscape"" designed to test her worthiness to retrieve the Progenitor's powerful technology, Book, Rayner and the crew of the U. S. S. Discovery must hold off the Breen long enough for her to escape."
+779,7,5,9,Lagrange Point,2024-05-23,"After Moll and the Breen capture a mysterious structure that contains the Progenitors' power, Captain Burnham must lead a covert mission to retrieve it before the Breen figure out how to use it."
+780,7,5,10,"Life, Itself",2024-05-30,"Trapped inside a mysterious alien portal that defies familiar rules of time, space and gravity, Burnham must fight Moll - and the environment itself - in order to locate the Progenitors' technology and secure it for the Federation."
+781,8,1,1,Runaway,2018-10-04,"Following a discussion with her condescending mother, Sylvia Tilly encounters a young Xahean stowaway, Me Hani Ika Hali Ka Po. Tilly, who is accustomed to taking orders, decides to make her own decisions to help Po return home in time for her coronation."
+782,8,1,2,Calypso,2018-11-08,"The USS Discovery has held position in space for a thousand years, and its computer system Zora has become sentient. She retrieves a passing escape pod carrying a man named Craft. Zora keeps Craft aboard the ship and begins to fall in love with him, but eventually lets him take Discovery's last shuttle to return to his family on Alcor IV."
+783,8,1,3,The Brightest Star,2018-12-06,"On the planet Kaminar, Saru wants to learn about life outside the pre-warp society of his village, where his people are harvested as food by the predatory Ba'ul. Saru is able to send a distress signal into space that is answered by Lieutenant Philippa Georgiou, who invites Saru to join Starfleet."
+784,8,1,4,The Escape Artist,2019-01-03,"Harry Mudd is captured by a bounty hunter and taken to a Federation ship, but there the hunter finds multiple versions of Mudd already detained. Elsewhere, the real Mudd continues to create android replicas of himself, capitalizing on his own notoriety and confounding the authorities."
+785,8,2,1,Q&A,2019-10-05,"On his first day aboard the USS Enterprise, Ensign Spock and his new superior officer Number One are trapped in a turbolift. While waiting for it to be repaired, Spock asks Number One numerous questions and they bond over their similarities."
+786,8,2,2,The Trouble with Edward,2019-10-10,"On the USS Cabot, science officer Edward Larkin tries to solve a planet's food shortage by adding human DNA to tribbles, against his captain's orders, creating a species that is born pregnant and reproduces at an exponential rate. The Cabot is overrun and Larkin dies when he is trapped under multiplying tribbles and left behind while the rest of the crew escapes."
+787,8,2,3,Ask Not,2019-11-14,"When Starbase 28 is attacked, Cadet Thira Sidhu is given care of a mutinous prisoner: Captain Christopher Pike of the Enterprise. Pike tries to pressure Sidhu into releasing him, but she refuses. He then reveals it is a simulated test that Sidhu has passed, allowing her to join the crew of the Enterprise."
+788,8,2,4,Ephraim and Dot,2019-12-12,"Ephraim, a tardigrade looking for a place to lay her eggs, crosses paths with the USS Enterprise and is attacked by a repair drone named Dot. When the Enterprise self-destructs, Dot helps save Ephraim's eggs. When the eggs hatch, the pair travel with the baby tardigrades together."
+789,8,2,5,The Girl Who Made the Stars,2019-12-12,"Young Michael Burnham's father eases her fear of the dark by telling her a story about a young African girl. In the story, the girl's people fear the dark because of a predatory Night Beast, but she braves the night and discovers an alien that gifts her new light. The girl uses this to create the stars, and grows up to be a warrior queen."
+790,8,2,6,Children of Mars,2020-01-09,"Two schoolgirls on Earth develop a fierce rivalry but are drawn together by a tragedy when they see news of Mars and its shipyard facilities attacked by rogue synthetics. During the news footage an image of Admiral Jean-Luc Picard appears, with the network reporting that Picard called the attack ""devastating""."
+791,9,1,1,Remembrance,2020-01-23,"Fourteen years after retiring from Starfleet, Jean-Luc Picard, still haunted by the death of Data, is living a quiet life on his family vineyard when a woman comes to him for help."
+792,9,1,2,Maps and Legends,2020-01-30,"Without the support of Starfleet, Picard turns to Dr. Agnes Jurati and his estranged colleague Raffi Musiker for help in finding the truth about Dahj, unaware that hidden enemies are also interested in what he'll find."
+793,9,1,3,The End Is the Beginning,2020-02-06,"After reflecting on the past with Raffi, Picard hires her partner, Cristobal Rios, to help him in his search for Bruce Maddox; Soji's work on the Borg cube catches the attention of the executive director."
+794,9,1,4,Absolute Candor,2020-02-13,"On the way to Freecloud, Picard requests a stop at a Romulan refugee planet where he reunites with Elnor, the young Romulan he befriended fourteen years ago; Narek continues to learn more about Soji."
+795,9,1,5,Stardust City Rag,2020-02-20,"The La Sirena crew reach Freecloud and find Bruce Maddox in a precarious situation, so Seven of Nine, the ex-Borg they recently picked up, lends her assistance."
+796,9,1,6,The Impossible Box,2020-02-27,"Picard and the crew trace Soji to the Borg cube, forcing Picard to face memories of being Locutus; Narek believes he's found a way to safely exploit information from Soji."
+797,9,1,7,Nepenthe,2020-03-05,"Picard and Soji, who's struggling to make sense of her recently unlocked memories, travel to a planet that happens to be the home of Picard's old friends Will Riker and Deanna Troi; Elnor and Hugh are left on the Borg cube to face Narissa."
+798,9,1,8,Broken Pieces,2020-03-12,"Picard realizes how far some will go to protect secrets that go back generations when truths about the attack on Mars are revealed; Narissa orders her guards to capture Elnor, setting off a chain reaction on the Borg cube."
+799,9,1,9,"Et in Arcadia Ego, Part 1",2020-03-19,"With the Romulans in pursuit, Picard and the crew finally reach Soji's home planet - and discover more than they expected about the inhabitants."
+800,9,1,10,"Et in Arcadia Ego, Part 2",2020-03-26,Picard and his team are pitted against the Romulans and the synthetics of Coppelius in a final confrontation.
+801,9,2,1,The Star Gazer,2022-03-03,"Starfleet must once again call on legendary Jean-Luc Picard after members of his former crew - Cristóbal Rios, Seven of Nine, Raffi Musiker, and Dr. Agnes Jurati - discover an anomaly in space that threatens the galaxy."
+802,9,2,2,Penance,2022-03-10,Picard finds himself transported to an alternate timeline in the year 2400 where he must face one last trial orchestrated by his longtime nemesis Q.
+803,9,2,3,Assimilation,2022-03-17,Picard and the crew travel back to 2024 Los Angeles in search of the one person who can help them identify the point at which time diverged.
+804,9,2,4,Watcher,2022-03-24,"With time running out to save the future, Picard seeks out an old friend for help; Rios winds up on the wrong side of the law; Jurati makes a deal with the Borg Queen."
+805,9,2,5,Fly Me to the Moon,2022-03-31,"Picard discovers an important person from his past, Q continues his manipulation of the timeline, taking an interest in Dr. Adam Soong. Seven and Raffi attempt a daring rescue of Rios."
+806,9,2,6,Two of One,2022-04-07,Tallinn helps Picard and the crew infiltrate a gala on the eve of a joint space mission to protect an astronaut they believe is integral in restoring the timeline - Renee Picard; Kore makes a startling discovery about her father's work.
+807,9,2,7,Monsters,2022-04-14,Tallinn enters Picard's subconscious mind to help him wake from a coma and face his deepest fears; Seven and Raffi search for Jurati fearing she's succumbed to her inner monster; Rios struggles to hide the truth about himself from Teresa.
+808,9,2,8,Mercy,2022-04-21,"With time running out before the launch of the Europa Mission, Picard and Guinan must free themselves from FBI custody. Seven and Raffi come face-to-face with Jurati and the horror of what she's become."
+809,9,2,9,Hide and Seek,2022-04-28,Picard must face the ghosts of his past when he and his crew are attacked by a new incarnation of an old enemy; Seven and Raffi face Jurati in a final showdown.
+810,9,2,10,Farewell,2022-05-05,"With just hours until the Europa Launch, Picard and the crew find themselves in a race against time to save the future."
+811,9,3,1,The Next Generation,2023-02-16,"After receiving a distress call from Beverly Crusher, Jean-Luc Picard enlists help from generations old and new for one last adventure: a mission that will change Starfleet and his old crew forever."
+812,9,3,2,Disengage,2023-02-23,"Aided by crew of the U.S.S. Titan, Picard makes a discovery that will alter his life forever and puts him on a collision course with the most cunning enemy he's ever encountered."
+813,9,3,3,Seventeen Seconds,2023-03-02,"Picard grapples with a life-altering revelation as the crew of the Titan attempt to outmaneuver Vadic, while Raffi and Worf uncover a plot by a vengeful enemy."
+814,9,3,4,No Win Scenario,2023-03-09,"Picard, Riker and crew must confront the sins of their past as the Titan drifts helplessly in a mysterious space anomaly."
+815,9,3,5,Imposters,2023-03-16,"Caught by Starfleet and facing court martial, paranoia grows as Picard struggles to uncover whether a prodigal crewman from his past has returned as an ally - or an enemy hellbent on destroying them all."
+816,9,3,6,The Bounty,2023-03-23,"Now on the run, Picard and the skeleton crew of the USS Titan must break into Starfleet's most top secret facility to expose a plot that could destroy the Federation. Picard must turn to an old friend for help."
+817,9,3,7,Dominion,2023-03-30,"Crippled, cornered, and out of options, Picard stages a gambit to trap Vadic and reveal her true motive - a gamble that puts the Titan in the crosshairs and forces Picard and Beverly to question every moral code they've ever held."
+818,9,3,8,Surrender,2023-04-06,Vadic forces Picard to make an impossible choice: deliver what he can never give - or watch his crew perish. Their only salvation lies in the mind of an old friend and old foe.
+819,9,3,9,Võx,2023-04-13,A devastating revelation about Jack alters the course of Picard's life - and uncovers a truth that threatens every soul in the Federation. Picard and his crew race to save the galaxy from annihilation - at a gut-wrenching cost.
+820,9,3,10,The Last Generation,2023-04-20,"In a desperate last stand, Jean-Luc Picard and generations of crews both old and new fight together to save the galaxy from the greatest threat they've ever faced."
+821,10,1,1,Second Contact,2020-08-06,"Ensigns Mariner and Boimler run into difficulty on Galar. Meanwhile, an alien virus infects the crew of the Cerritos."
+822,10,1,2,Envoys,2020-08-13,"After a high-profile mission goes awry, Boimler is further plagued with self-doubt when Mariner proves herself to be a more naturally talented sci-fi badass than he. Rutherford quits his job in engineering and explores other departments on the U.S.S. Cerritos."
+823,10,1,3,Temporal Edict,2020-08-20,"A new work protocol eliminating ""buffer time"" has the Lower Decks crew running ragged as they try to keep up with their tightened schedules. Ensign Mariner and Commander Ransom's mutual lack of respect comes to a head during an away mission."
+824,10,1,4,Moist Vessel,2020-08-27,Captain Freeman seeks the ultimate payback after Mariner blatantly disrespects her in front of the crew. A well-meaning Tendi accidentally messes up a lieutenant's attempt at spiritual ascension and tries to make it right.
+825,10,1,5,Cupid's Errant Arrow,2020-09-03,Mariner is suspicious of Boimler's new girlfriend. Tendi and Rutherford grow jealous of a bigger starship's gear.
+826,10,1,6,Terminal Provocations,2020-09-10,The lovable but awkward Ensign Fletcher makes work difficult for Mariner and Boimler. Rutherford introduces Tendi to a holodeck training program that he created.
+827,10,1,7,Much Ado About Boimler,2020-09-17,"Mariner tries to impress her best friend from Starfleet Academy who is now a visiting captain. Boimler is sent to a Starfleet medical ship after a transporter accident puts him ""out of phase."""
+828,10,1,8,Veritas,2020-09-24,"Mariner, Boimler, Tendi, and Rutherford are caught off guard when aliens force them to testify about a series of seemingly unrelated events."
+829,10,1,9,Crisis Point,2020-10-01,Mariner repurposes Boimler's holodeck program to cast herself as the villain in a Lower Decks style movie.
+830,10,1,10,No Small Parts,2020-10-08,The USS Cerritos encounters a familiar enemy. Tendi helps a struggling recruit find her footing.
+831,10,2,1,Strange Energies,2021-08-12,"The U.S.S. Cerritos is dispatched on a mission which results in an encounter with ""strange energy."""
+832,10,2,2,"Kayshon, His Eyes Open",2021-08-19,"Our Lower Deckers have trouble bonding with Ensign Jet Manhaver, who has been assigned Boimler's bunk and shift duties. Meanwhile, we get a glimpse of Boimler's life on the U.S.S. Titan, which is more intense than he thought it would be."
+833,10,2,3,We'll Always Have Tom Paris,2021-08-26,"Assigned a special task by Dr. T'Ana, Tendi enlists Mariner for help. On the U.S.S. Cerritos, Rutherford is consumed by a bridge crew mystery."
+834,10,2,4,"Mugato, Gumato",2021-09-02,The USS Cerritos is dispatched to a planet to investigate an unexplained sighting of a dangerous Mugato.
+835,10,2,5,An Embarrassment of Dooplers,2021-09-09,Mariner and Boimler try to track down the location of a legendary Starfleet party while the bridge crew deals with an insecure alien diplomat.
+836,10,2,6,The Spy Humongous,2021-09-16,Anomaly consolidation day on the U.S.S. Cerritos leaves the Lower Deckers with mixed emotions. Captain Freeman attempts to negotiate peace on the Pakled home world.
+837,10,2,7,Where Pleasant Fountains Lie,2021-09-23,"Mariner & Boimler are stranded on an uninhabited planet with a sentient computer. On the Cerritos, Lt. Commander Billups must prove his engineering abilities to an old adversary."
+838,10,2,8,"I, Excretus",2021-09-30,A consultant arrives on the U.S.S. Cerritos to run drills that require the lower deckers and bridge crew to swap duties.
+839,10,2,9,wej Duj,2021-10-07,"As the U.S.S. Cerritos crew has downtime during a long warp trip, a Klingon ship and a Vulcan one find themselves unknowingly heading to an encounter with the Starfleet ship."
+840,10,2,10,First First Contact,2021-10-14,The U.S.S. Cerritos is tasked to aid an Excelsior-class starship on a first contact mission.
+841,10,3,1,Grounded,2022-08-25,Mariner enlists her friends on a rogue mission to exonerate her mother as Captain Freeman faces a military tribunal for the destruction of Pakled Planet.
+842,10,3,2,The Least Dangerous Game,2022-09-01,"On a tropical paradise planet, Mariner questions Commander Ransom on how he structures his away team. Boimler makes a bold career decision."
+843,10,3,3,Mining the Mind's Mines,2022-09-08,"On a remote science outpost, stone orbs are bringing fantasies to life. Tendi starts her first day as a Senior Science Officer Trainee."
+844,10,3,4,Room for Growth,2022-09-15,"Mariner, Boimler, and Tendi clash with their arch-rivals: Delta Shift. The Cerritos engineers go on mandatory relaxation leave."
+845,10,3,5,Reflections,2022-09-22,"Mariner and Boimler work the Starfleet recruitment booth at an alien job fair, Rutherford challenges himself."
+846,10,3,6,"Hear All, Trust Nothing",2022-09-29,The Cerritos crew unexpectedly spends a day on Deep Space 9.
+847,10,3,7,A Mathematically Perfect Redemption,2022-10-06,A wayward Starfleet ensign struggles to find a path to redemption.
+848,10,3,8,Crisis Point 2: Paradoxus,2022-10-13,Boimler's holodeck movie sequel tries to live up to the original.
+849,10,3,9,Trusted Sources,2022-10-20,A visiting reporter on the Cerritos puts Captain Freeman on edge.
+850,10,3,10,The Stars at Night,2022-10-27,The Cerritos crew must prove their worth in a mission race.
+851,10,4,1,Twovix,2023-09-07,The Cerritos ensigns must assist a caretaker on the voyage of a historically significant starship.
+852,10,4,2,I Have No Bones Yet I Must Flee,2023-09-07,"Mariner tries to get demoted, Rutherford tries to get promoted, Boimler makes a big move."
+853,10,4,3,In the Cradle of Vexilon,2023-09-14,Boimler leads his first away mission on an alien megastructure.
+854,10,4,4,"Something Borrowed, Something Green",2023-09-21,Tendi is summoned back to Orion for a wedding.
+855,10,4,5,Empathological Fallacies,2023-09-28,The hedonistic behavior of a Betazoid delegation is suspected of affecting the crew.
+856,10,4,6,Parth Ferengi's Heart Place,2023-10-05,The Cerritos visits the Ferengi homeworld.
+857,10,4,7,A Few Badgeys More,2023-10-12,Three computerized villains return to cause problems for the Cerritos crew.
+858,10,4,8,Caves,2023-10-19,The Lower Deckers go on a classic cave mission.
+859,10,4,9,The Inner Fight,2023-10-26,Captain Freeman assigns the Lower Deckers an overly safe mission to try and keep a self-destructive Mariner out of danger.
+860,10,4,10,"Old Friends, New Planets",2023-11-02,"Mariner finds herself held as the hoped-for ally of the disgraced Nick Locarno, now a megalomaniacal insurrectionist armed with a rebel fleet and a destructively planet-reforming Genesis device."
+861,10,5,1,Dos Cerritos,2024-10-24,A spatial anomaly forces the Cerritos crew to face their own faces.
+862,10,5,2,Shades of Green,2024-10-24,"Tendi races to stop a conflict, while Boimler and Mariner race to stop capitalists."
+863,10,5,3,The Best Exotic Nanite Hotel,2024-10-31,The Lower Deckers hunt nanites on a resort in space.
+864,10,5,4,A Farewell To Farms,2024-11-07,Dr. Migleemo cooks up some hot dishes. Mariner prefers hers served cold.
+865,10,5,5,Starbase 80?!,2024-11-14,Ransom uses too much disinfectant gel while Mariner gets paranoid about curses.
+866,10,5,6,Of Gods and Angles,2024-11-21,The Cerritos hosts peace talks between warring civilizations.
+867,10,5,7,Fully Dilated,2024-11-28,It's a pre-warp society undercover Girls Trip.
+868,10,5,8,Upper Decks,2024-12-05,The Lower Deckers have a pumpkin carving party.
+869,10,5,9,Fissure Quest,2024-12-12,Fissures must be closed before they get inflamed.
+870,10,5,10,The New Next Generation,2024-12-19,Season finale where lots of wild stuff happens.
+871,11,1,1,"Lost and Found, Part 1",2021-10-28,The young alien Dal finds a hidden starfleet spaceship during an escape attempt from a mine planet. But who is still after the ship?
+872,11,1,2,"Lost and Found, Part 2",2021-10-28,Dal needs a strong crew for the new ship if they want to leave Tars Lamora. But the Diviner and his daughter Gwyn have other plans.
+873,11,1,3,Starstruck,2021-11-04,"Even with the guidance of their hologram advisor Janeway, the crew of The Protostar is tested when their ship is on a dangerous cosmic collision course."
+874,11,1,4,Dream Catcher,2021-11-11,"The crew has their first away mission on an undiscovered planet that manifests their deepest desires, only to realize the planet has desires of its own."
+875,11,1,5,Terror Firma,2021-11-18,"Marooned on a deadly planet, the crew must work together with their captive Gwyn to stay alive...except the planet isn't the only thing in pursuit."
+876,11,1,6,Kobayashi,2022-01-06,"As Gwyn struggles to find her role aboard the USS Protostar, Dal tests his leadership skills in the newly discovered holodeck."
+877,11,1,7,First Con-tact,2022-01-13,"When a mentor from Dal's past persuades him to use their Federation cover for personal gain, they quickly discover Starfleet has protocols for a reason."
+878,11,1,8,Time Amok,2022-01-20,"When an anomaly fractures the U.S.S. Protostar in time, Hologram Janeway must synchronize the disjointed crew and save their ship before it destructs."
+879,11,1,9,"A Moral Star, Part 1",2022-01-27,The crew forgo their dreams of Starfleet to return to Tars Lamora in a no-win scenario.
+880,11,1,10,"A Moral Star, Part 2",2022-02-03,"When their plan goes awry, the crew must improvise. Meanwhile, Gwyn discovers a dark truth that will forever jeopardize their quest toward salvation."
+881,11,1,11,Asylum,2022-10-27,"At the edge of Federation space, the crew applies for asylum at a comm relay outpost, only for their starship to reveal its shocking true purpose."
+882,11,1,12,Let Sleeping Borg Lie,2022-11-03,"When the crew encounters a dormant Borg Cube, Zero risks everything to save their ship."
+883,11,1,13,All the World's a Stage,2022-11-10,The crew answers a distress call to find a colony trapped in Starfleet's past.
+884,11,1,14,Crossroads,2022-11-17,"When the crew attempts to secure transport to the Federation, they unwittingly cross paths with the Vice Admiral who is hunting them."
+885,11,1,15,Masquerade,2022-11-24,"Trapped in the Neutral Zone, the crew encounters a rogue geneticist who sheds light on Dal's past."
+886,11,1,16,Preludes,2022-12-01,"A Starfleet admiral digs into the past of the Protostar crew. Meanwhile, the Diviner recalls his life's mission."
+887,11,1,17,Ghost in the Machine,2022-12-08,"When the crew gets trapped in the holodeck by a mysterious malfunction, they aren't sure what's programmed or what's real."
+888,11,1,18,Mindwalk,2022-12-15,"Desperate to warn Starfleet of their dilemma, a daring experiment goes awry as Dal inadvertently swaps mind with a Starfleet Vice Admiral."
+889,11,1,19,"Supernova, Part 1",2022-12-22,"Surrounded by the Federation armada, the crew attempts to stop their ship from destroying all of Starfleet."
+890,11,1,20,"Supernova, Part 2",2022-12-29,"As the Federation hangs in the balance, the crew must make the ultimate sacrifice to save Starfleet's future."
+891,11,2,1,"Into the Breach, Part 1",2024-07-01,"Dal and his friends board Janeway's starship to investigate the wormhole created by the Protostar. Tired of his training, Dal longs for some action."
+892,11,2,2,"Into the Breach, Part 2",2024-07-01,Gwyn runs into a familiar foe on the planet Solum. Janeway reveals the true stakes of their mission to Dal and his friends.
+893,11,2,3,Who Saves the Saviors,2024-07-01,"Traveling through the time rift, Dal and the crew search for Chakotay on Solum. With the support of her father, Gwyn challenges Ascencia."
+894,11,2,4,Temporal Mechanics 101,2024-07-01,"Although separated by decades, the Infinity and the Voyager crews band together to save Gwyn's life. A mysterious messenger reaches out to Gwyn."
+895,11,2,5,Observer's Paradox,2024-07-01,"Reunited on Voyager and under strict supervision, the gang must decode a secret message their mysterious benefactor left with Murf."
+896,11,2,6,Imposter Syndrome,2024-07-01,"Hoping to hijack the Infinity before its scheduled destruction, Dal and the crew create hologram doubles to cover for their absence."
+897,11,2,7,The Fast and the Curious,2024-07-01,"After using a Borg conduit to travel through time faster, Dal and his friends find themselves at the mercy of a demanding Kazon."
+898,11,2,8,Is There in Beauty No Truth?,2024-07-01,"The crew detours to a colony of non-corporeal entities, who offer Zero an opportunity to obtain a physical body. Janeway discovers Dal's real intentions."
+899,11,2,9,"The Devourer of All Things, Part 1",2024-07-01,"Finally arriving at the coordinates, the Infinity crew discovers a hidden planet - and the long-awaited identity of their mysterious messenger."
+900,11,2,10,"The Devourer of All Things, Part 2",2024-07-01,"On the run from their time-erasing pursuers, the Infinity crew and their new ally search for an escape. Voyager embarks on a rescue mission."
+901,11,2,11,"Last Flight of the Protostar, Part 1",2024-07-01,"Thanks to Wesley Crusher's timely intervention, the cadets find the Protostar - but the ship's marooned guardian isn't eager for their assistance."
+902,11,2,12,"Last Flight of the Protostar, Part 2",2024-07-01,"Chakotay and the cadets devise a bold but perilous plan to relaunch the Protostar. Before the ship can fly, however, it will first have to sail."
+903,11,2,13,A Tribble Called Quest,2024-07-01,"While harvesting bosonite on a barren world, the crew encounters aggressive, genetically-modified tribbles - and the Klingon scientist who created them."
+904,11,2,14,Cracked Mirror,2024-07-01,"The Protostar's reunion with Voyager has unexpected side effects, bouncing the crew between alternate realities - including the Mirror Universe."
+905,11,2,15,"Ascension, Part 1",2024-07-01,"Just as the Protostar and Voyager crews bring their mission to a close, a former enemy suddenly resurfaces with surprising new powers."
+906,11,2,16,"Ascension, Part 2",2024-07-01,"Overwhelmed by Asencia's mysteriously advanced weaponry, the Protostar and Voyager crews take a series of calculated risks that endanger the cadets."
+907,11,2,17,Brink,2024-07-01,"As war looms between the Federation and Solum, Gwyn proposes to lead the cadets on an undercover mission to gather intelligence and rescue Ilthuran."
+908,11,2,18,Touch of Grey,2024-07-01,"Admiral Janeway devises a clever plan to liberate her crew from Asencia's prison, where they're trapped with an angry captive from the Loom."
+909,11,2,19,"Ouroboros, Part 1",2024-07-01,"A desperate Asencia launches an all-out attack on the Federation that will destroy subspace, while Wesley and the cadets try to correct the timeline."
+910,11,2,20,"Ouroboros, Part 2",2024-07-01,The cadets fight Asencia in a battle for control of Solum and the future - but a sudden invasion by a destructive species complicates their end-game.
+911,12,1,1,Strange New Worlds,2022-05-05,Captain Christopher Pike comes out of self-imposed exile to rescue an officer gone missing during a secret mission.
+912,12,1,2,Children of the Comet,2022-05-12,An ancient alien relic thwarts the Enterprise crew from re-routing a comet on track to strike an inhabited planet.
+913,12,1,3,Ghosts of Illyria,2022-05-19,"Una must confront a secret she's been hiding when a contagion ravages the ship, incapacitating the rest of the crew."
+914,12,1,4,Memento Mori,2022-05-26,Pike must find unconventional Starfleet methods to deal with a malevolent force that attacks the Enterprise.
+915,12,1,5,Spock Amok,2022-06-02,A personal visit causes a comedy of errors during Spock & Pike's crucial negotiations with an unusual alien species.
+916,12,1,6,Lift Us Where Suffering Cannot Reach,2022-06-09,"A threat to an idyllic planet reunites Captain Pike with the lost love of his life. To protect her and a scientific holy child from a conspiracy, Pike offers his help and is forced to face unresolved feelings of his past."
+917,12,1,7,The Serene Squall,2022-06-16,"While on a dangerous humanitarian mission, the crew of the Enterprise stumbles into a harrowing game of leverage with the quadrant's deadliest space pirate."
+918,12,1,8,The Elysian Kingdom,2022-06-23,The USS Enterprise becomes stuck in a nebula that's home to an alien consciousness which traps the crew in a fairy tale.
+919,12,1,9,All Those Who Wander,2022-06-30,Enterprise crew comes face-to-face with their demons - and scary monsters too - when their landing party's stranded on a barren planet with a ravenous enemy.
+920,12,1,10,A Quality of Mercy,2022-07-07,"In the season one finale, just as Captain Pike thinks he's figured out how to escape his fate, he's visited by his future self, who shows him the consequences of his actions."
+921,12,2,1,The Broken Circle,2023-06-15,A distress call from Lt. Noonien-Singh compels Spock to disobey orders and take the Enterprise and its crew into disputed space on a rescue mission.
+922,12,2,2,Ad Astra per Aspera,2023-06-22,"Commander Una Chin-Riley faces court martial, imprisonment and dishonorable discharge from Starfleet."
+923,12,2,3,Tomorrow and Tomorrow and Tomorrow,2023-06-29,La'an travels back in time to 21st-century Earth to prevent an attack which will alter humanity's future history.
+924,12,2,4,Among the Lotus Eaters,2023-07-06,"Returning to a planet that dredges up tragic memories, Captain Pike and his landing party find themselves forgetting everything, including their own identities as he confronts a ghost from his past."
+925,12,2,5,Charades,2023-07-13,"A shuttle accident leads to Spock's Vulcan DNA being removed by aliens, making him fully human and completely unprepared to face T'Pring's family during an important ceremonial dinner."
+926,12,2,6,Lost in Translation,2023-07-20,Uhura seems to be the only one who can hear a strange sound that seems to trigger terrifying hallucinations.
+927,12,2,7,Those Old Scientists,2023-07-22,"An accident while investigating a time portal sends Ensigns Beckett Mariner and Bradward Boimler through time from the 24th Century, and Captain Pike and his crew must get them back where they belong before they can alter the timeline."
+928,12,2,8,Under the Cloak of War,2023-07-27,"Captain Pike and his crew welcome a Klingon defector aboard the U.S.S. Enterprise, but his presence triggers the revelation of some shocking secrets."
+929,12,2,9,Subspace Rhapsody,2023-08-03,"An accident with an experimental quantum probability field causes everyone on the Enterprise to break uncontrollably into song, but the real danger is that the field is expanding & beginning to impact other ships - allies & enemies alike."
+930,12,2,10,Hegemony,2023-08-10,"When the Enterprise investigates an attack on a colony at the edge of Federation space, Captain Pike and the crew face the return of a formidable enemy."
+931,12,3,1,"Hegemony, Part II",2025-07-17,"Pike risks it all, taking the Enterprise on a daring rescue mission behind enemy lines, while the landing party attempts an escape from a deadly enemy."
+932,12,3,2,Wedding Bell Blues,2025-07-17,"At a Federation celebration, an uninvited guest disrupts Spock and the crew's reflections."
+933,12,3,3,Shuttle to Kenfori,2025-07-24,"In order to cure Batel, Pike and M'Benga travel to Klingon space, where M'Benga's past resurfaces on a dangerous planet."
+934,12,3,4,A Space Adventure Hour,2025-07-31,"When La'An tests a prototype holodeck with a fictional case only she can solve, the consequences of failure get greater and greater, with the Enterprise hanging in the balance."
+935,12,3,5,Through the Lens of Time,2025-08-07,Chapel and Korby's quest leads the Enterprise to ancient ruins hiding a dark secret.
+936,12,3,6,The Sehlat Who Ate Its Tail,2025-08-14,Kirk's first day as captain turns disastrous when a scavenger ship seizes the Enterprise.
+937,12,3,7,What Is Starfleet?,2025-08-21,"While aiding a war-torn planet, Pike and crew face scrutiny from a probing journalist."
+938,12,3,8,Four-and-a-Half Vulcans,2025-08-28,"After a mission turns crew members into Vulcans, trouble arises when they try to revert to human."
+939,12,3,9,Terrarium,2025-09-04,"Stranded on a toxic moon, Ortegas must defy her deepest beliefs to survive."
+940,12,3,10,New Life and New Civilizations,2025-09-11,"When an ancient evil resurfaces, Pike faces a life-altering choice to stop it."
+941,13,1,1,Kids These Days,2026-01-15,"After fleeing since childhood, 21-year-old genius Caleb must decide whether to accept a spot at the new Starfleet Academy from Chancellor Nahla Ake - the captain who imprisoned his mother 15 years ago."
+942,13,1,2,Beta Test,2026-01-15,"While struggling with doubts about his Starfleet Academy future, Caleb guides a former ally's daughter around campus, leading him to discover the true meaning of Academy life."
+943,13,1,3,Vitus Reflux,2026-01-22,"While our cadets compete to join an elite team at the Academy, a battle of escalating pranks breaks out between Starfleet Academy and the rival War College. Tensions rise, threatening their newly emerging bonds and a blossoming romance."
+944,13,1,4,Vox in Excelso,2026-01-29,Jay-Den faces an existential crisis that threatens his species while confronting his past.
+945,13,1,5,Series Acclimation Mil,2026-02-05,Sam sets out to solve an ancient Starfleet mystery and embarks on a journey of self-discovery.
+946,13,1,6,"Come, Let's Away",2026-02-12,"Cadets face a deadly new threat during their first training mission aboard a derelict vessel, forcing them to fight for their lives as Nahla turns to an unlikely ally for assistance."
+947,13,1,7,Ko'Zeine,2026-02-19,"During a school holiday, cadets return home and must choose between family expectations and dreams."
+948,13,1,8,The Life of the Stars,2026-02-26,A visiting instructor forces the cadets to face the emotional realities of serving in Starfleet.
+949,13,1,9,300th Night,2026-03-05,"As the year ends, Caleb must choose between the life he wanted and the life he's built at Starfleet Academy. Nahla breaks protocol to keep her promise."
+950,13,1,10,Rubincon,2026-03-12,An old enemy's return forces Nahla to confront her mistakes in a mission to save the Federation.

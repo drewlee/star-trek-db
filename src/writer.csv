@@ -1,0 +1,451 @@
+id,name
+1,George Clayton Johnson
+2,Gene Roddenberry
+3,D. C. Fontana
+4,Samuel A. Peeples
+5,John D. F. Black
+6,Richard Matheson
+7,Stephen Kandel
+8,Robert Bloch
+9,Adrian Spies
+10,Shimon Wincelberg
+11,Jerry Sohl
+12,Barry Trivers
+13,Paul Schneider
+14,Theodore Sturgeon
+15,Oliver Crawford
+16,Fredric Brown
+17,Gene L. Coon
+18,Don M. Mankiewicz
+19,Steven W. Carabatsos
+20,Boris Sobelman
+21,Carey Wilber
+22,Robert Hamner
+23,Don Ingalls
+24,Harlan Ellison
+25,Gilbert Ralston
+26,John Meredyth Lucas
+27,Jerome Bixby
+28,Max Ehrlich
+29,Norman Spinrad
+30,David P. Harmon
+31,Art Wallace
+32,David Gerrold
+33,Margaret Armen
+34,Robert Sabaroff
+35,John T. Dugan
+36,Laurence N. Wolfe
+37,Edward J. Lakso
+38,Jean Lisette Aroeste
+39,Hendrik Vollaerts
+40,Judy Burns
+41,Chet Richards
+42,Meyer Dolinsky
+43,Arthur Heinemann
+44,Joyce Muskat
+45,Lee Erwin
+46,George F. Slavin
+47,Stanley Adams
+48,Jeremy Tarcher
+49,Shari Lewis
+50,Arthur Singer
+53,Katharyn Powers
+54,Michael Baron
+55,Richard Krzmeien
+56,Herbert Wright
+57,Diane Duane
+58,Michael Reaves
+59,Michael Halperin
+60,Worley Thorne
+61,Larry Forrester
+62,Maurice Hurley
+63,Tracy Tormé
+64,Lan O'Kun
+65,Robert Lewin
+66,Patrick Barry
+67,Michael Michaelian
+68,Hannah Louise Shearer
+69,Karl Geurs
+70,Ralph Sanchez
+72,Sandy Fries
+73,Richard Manning
+74,Hans Beimler
+75,Joseph Stefano
+76,Deborah Dean Davis
+77,Deborah McIntyre
+78,Mona Clee
+79,Jaron Summers
+80,Jon Povill
+81,Jack B. Sowards
+82,Brian Alan Lane
+83,Les Menchen
+84,Lance Dickson
+85,David Landsberg
+86,Burton Armus
+87,Jacqueline Zambrano
+88,John Mason
+89,Mike Gray
+90,Wanda M. Haight
+91,Gregory Amos
+92,Melinda M. Snodgrass
+93,Scott Rubenstein
+94,Leonard Mlodinow
+95,Steve Gerber
+96,Beth Woods
+97,Kurt Michael Bensmiller
+98,David Assael
+99,Robert McCullough
+100,Thomas H. Calder
+101,David Kemper
+102,Michael Piller
+103,Michael Wagner
+104,Ronald D. Moore
+105,Ron Roman
+106,Richard Danus
+107,Sam Rolfe
+108,Robin Bernheim
+109,Ed Zuckerman
+110,Ira Steven Behr
+111,Trent Christopher Ganino
+112,Eric A. Stillwell
+113,René Echevarria
+114,Drew Deighan
+115,W. Reed Moran
+116,Dennis Bailey
+117,David Bischoff
+118,Sally Caves
+119,Shari Goodhartz
+120,Peter S. Beagle
+121,Fred Bronson
+122,Susan Sackett
+123,Rick Berman
+124,Ralph Phillips
+125,John Whelpley
+126,Jeri Taylor
+127,Lee Sheldon
+128,Joe Menosky
+129,Thomas Perry
+130,Jo Perry
+131,Brannon Braga
+132,J. Larry Carroll
+133,David Bennett Carren
+134,Kacey Arnold-Ince
+135,Hilary J. Bader
+136,Allan J. Adler
+137,Vanessa Greene
+138,Harold Apter
+139,Stuart Charno
+140,Sara Charno
+141,Cy Chermak
+142,Philip LaZebnik
+143,William Douglas Lansford
+144,Bruce D. Arthurs
+145,Marc Scott Zicree
+146,Thomas Kartozian
+147,Pamela Douglas
+148,Timothy DeHaas
+149,Randee Russell
+150,Ted Roberts
+151,Peter Allan Fields
+152,Michel Horvat
+153,Ken Schafer
+154,Lawrence V. Conley
+155,Ron Jarvis
+156,Philip A. Scorza
+157,Grant Rosenberg
+158,T. Michael
+159,Pamela Gray
+160,James Kahn
+161,Adam Belanoff
+162,Paul Schiffer
+163,Barry Schkolnick
+164,Paul Ruben
+165,René Balcer
+166,Naren Shankar
+167,Gary Perconte
+168,Jean Louise Matthias
+169,Ronald Wilkerson
+170,Richard Fliegel
+171,Edithe Swensen
+172,Morgan Gendel
+173,Frank Abatemarco
+174,Ward Botsford
+175,Diana Dru Botsford
+176,Allison Hock
+177,Robert Hewitt Wolfe
+178,James E. Brooks
+179,Michael A. Medlock
+180,Roger Eschbacher
+181,Jaq Greenspon
+182,Jeanne Carrigan-Fauci
+183,Lisa Rich
+184,Christopher Hatton
+185,Nick Sagan
+186,Dan Koeppel
+187,Spike Steingasser
+188,Mark Kalbfeld
+260,Gerald Sanford
+261,Michael McGreevey
+262,Jill Sherman Donner
+263,Frederick Rappaport
+264,David Livingston
+265,Evan Carlos Somers
+266,Nell McCue Crawford
+267,William L. Crawford
+268,Jim Trombetta
+269,Don Carlos Dunaway
+270,Gene Wolande
+271,John Wright
+272,James Crocker
+273,Steven Baum
+274,Mark Gehred-O'Connell
+275,Gabe Essoe
+276,Kelley Miles
+277,Bill Dial
+278,Paul Robert Coyle
+279,Jeff King
+280,Flip Kobler
+281,Cindy Marcus
+282,Gary Holland
+283,Tom Benko
+284,Christopher Teague
+285,D. Thomas Maio
+286,Steve Warnek
+287,Mike Krohn
+288,Christian Ford
+289,Roger Soffer
+290,David S. Cohen
+291,Martin A. Winer
+292,Ethan H. Calk
+293,John Shirley
+294,Robert Lederman
+295,David R. Long
+296,Gordon Dawson
+297,Michael Taylor
+298,Nicholas Corea
+299,Lisa Klink
+300,Toni Marberry
+301,Jack Treviño
+302,David Alan Mack
+303,John J. Ordover
+304,Robert Gillan
+305,Barbara J. Lee
+306,Jenifer A. Lee
+307,Jane Espenson
+308,David Weddle
+309,Bradley Thompson
+310,Daniel Keys Moran
+311,Lynn Barker
+312,Majel Barrett-Roddenberry
+313,Louis P. DeSantis
+314,Robert J. Bolivar
+315,George A. Brozak
+316,Pam Wigginton
+317,Rick Cason
+318,Brice R. Parker
+319,L. J. Strom
+320,Bryan Fuller
+321,Jimmy Diggs
+322,Edmund Newton
+323,Robbin L. Slocum
+324,Truly Barr Clark
+325,Scott J. Neal
+326,Pam Pietroforte
+327,Philip Kim
+328,Harry M. Werksman
+329,Gabrielle Stanton
+330,Marc Daniels
+331,James Schmerer
+332,Walter Koenig
+333,Larry Brody
+334,Chuck Menville
+335,Len Janson
+336,Joyce Perry
+337,Larry Niven
+338,Howard Weinstein
+339,Dario Finelli
+340,Russeell Bates
+341,David Wise
+342,John Culver
+343,Skye Dent
+344,Tom Szollosi
+345,David R. George III
+346,Michael Perricone
+347,Greg Elliot
+348,Chris Abbott
+349,Jonathan Glassner
+350,Kenneth Biller
+351,James Thomton
+352,Scott Nimerfro
+353,Jack Klein
+354,Karen Klein
+355,Steve J. Kay
+356,Arnold Rudnick
+357,Rich Hosek
+358,Anthony Williams
+359,Michael Jan Friedman
+360,Kevin J. Ryan
+361,Michael De Luca
+362,Mike Sussman
+363,Shawn Piller
+364,Jeff Schnaufer
+365,Ed Bond
+366,Richard Gadas
+367,Andrew Shepard Price
+368,Mark Gaberman
+369,Clayvon C. Harris
+370,Geo Cameron
+371,André Bormanis
+372,Harry Kloor
+373,Sherry Klein
+374,Rick Williams
+375,Robert Doherty
+376,Scott Miller
+377,Eileen Connors
+378,Bill Prady
+379,Bill Vallely
+380,Juliann deLayne
+381,Mike Wollaeger
+382,Jessica Scott
+383,David Zabel
+384,Raf Green
+385,Gannon Kenney
+386,Paul Brown
+387,Dianna Gitto
+388,John Bruno
+389,Robert Picardo
+390,Carleton Eastlake
+391,Mark Haskell Smith
+392,Eric A. Morris
+393,Phyllis Strong
+394,Dave Long
+395,Jack Monaco
+396,Larry Nemecek
+397,J. Kelley Burke
+398,Andre Jacquemetton
+399,Maria Jacquemetton
+400,James Duff
+401,Stephen Beck
+402,Tim Finch
+403,Fred Dekker
+404,Chris Black
+405,Dan O'Shannon
+406,John Shiban
+407,Brent V. Friedman
+408,David A. Goodman
+409,Manny Coto
+410,Ken LaZebnik
+411,Alan Brennert
+412,Garfield Reeves-Stevens
+413,Judith Reeves-Stevens
+414,Antoinette Stella
+415,Alan Cross
+416,David Wilcox
+417,Taylor Elmore
+418,Daniel McCarthy
+419,Hans Tobeason
+420,Terry Matalas
+421,Jonathan Fernandez
+422,Alex Kurtzman
+423,Akiva Goldsman
+424,Gretchen J. Berg
+425,Aaron Harberts
+426,Craig Sweeny
+427,Jesse Alexander
+428,Aron Eli Coleite
+429,Kemp Powers
+430,Ted Sullivan
+431,Kirsten Beyer
+432,Bo Yeon Kim
+433,Erika Lippoldt
+434,Sean Cochran
+435,Lisa Randolph
+436,Jordon Nardino
+437,Vaun Wilmott
+438,Andrew Colville
+439,Alan McElroy
+440,Dan Dworkin
+441,Jay Beattie
+442,Michelle Paradise
+443,Chris Silvestri
+444,Anthony Maranville
+445,Brandon Schultz
+446,Jenny Lumet
+447,Anne Cofell Saunders
+448,Kenneth Lin
+449,Kalinda Vazquez
+450,Glenise Mullins
+451,Terri Hughes Burton
+452,Eric J. Robbins
+453,Kyle Jarrow
+454,Carlos Cisco
+455,Lauren Wilkinson
+456,Johanna Lee
+457,M. Raven Metzner
+458,Ari Friedman
+459,Michael Chabon
+460,Michael McMahan
+461,Graham Wagner
+462,Nick Zayas
+463,Samantha Humphrey
+464,Ayelet Waldman
+465,Christopher Monfette
+466,Kiley Rossetter
+467,Juliana James
+468,Jane Maggs
+469,Travis Fickett
+470,Cindy Appel
+471,Matt Okumura
+472,Chris Derrick
+473,Sean Tretta
+474,Chris Kula
+475,Dave Ihlenfeld
+476,David Wright
+477,Ann Kim
+478,Ben Joseph
+479,John Cochran
+480,M. Willis
+481,Garrick Bernard
+482,Ben Rodgers
+483,Kathryn Lyn
+484,Brian D. Bradley
+485,Grace Parra Janney
+486,Ben M. Waller
+487,Aaron Burdette
+488,Jamie Loftus
+489,Cullen Crawford
+490,Edgar Momplaisir
+491,May Darmon
+492,Keith Foglesong
+493,Stephanie Amante-Ritter
+494,Diana Tay
+495,Andrew Mueth
+496,Lauren McGuire
+497,Kevin Hageman
+498,Dan Hageman
+499,Chad Quandt
+500,Lisa Schultz Boyd
+501,Julie Benson
+502,Shawna Benson
+503,Aaron J. Waltke
+504,Diandra Pendleton-Thompson
+505,Nikhil S. Jayaram
+506,Erin McNamara
+507,Keith Sweet II
+508,Jennifer Muro
+509,Alex Hanson
+510,Henry Alonso Myers
+511,Sarah Tarkoff
+512,Akela Cooper
+513,Bill Wolkoff
+514,Davy Perez
+515,Beau DeMayo
+516,Robin Wasserman
+517,Onitra Johnson
+518,Dana Horgan
+519,David Reed
+520,Gaia Violo
+521,Noga Landau
+522,Alex Taub
+523,Eric Anthony Glover
+524,Tawny Newsome
